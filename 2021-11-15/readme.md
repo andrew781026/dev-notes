@@ -5,3 +5,8 @@
 ## 用其製作 BLOG 
 
 - [Create a Blog with Nuxt Content](https://nuxtjs.org/tutorials/creating-blog-with-nuxt-content/)
+
+
+### 學習連結
+
+- [JavaScript的CJS、AMD、UMD、ESM都是啥](https://segmentfault.com/a/1190000040282826)
