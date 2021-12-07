@@ -1,0 +1,16 @@
+{
+  "name": "wnacg-comic-download",
+  "description": "將紳士漫畫的整本漫畫下載下來",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node wnacg.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "puppeteer": "^10.4.0",
+    "request": "^2.88.2",
+    "util": "^0.12.4"
+  }
+}

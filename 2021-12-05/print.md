@@ -35,6 +35,8 @@ printJS({printable: base64, type: 'pdf', base64: true})
 
 這時我們就需要用 [jsPDF](https://github.com/parallax/jsPDF) 建立我們要列印的 pdf 
 
+
+
 ## 參考資料
 
 - [Javascript 將 html 轉成 pdf ,下載,支援多頁哦（html2canvas 和 jsPDF）](https://codertw.com/%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC/26393/)
