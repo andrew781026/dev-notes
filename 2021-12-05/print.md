@@ -7,7 +7,63 @@
 
 因此在此紀錄 , 免得自己的金魚腦 , 讓我 1 個月後忘記 `當初` 到底是如何處理的
 
-有幾個方向可以處理列印的問題
+剛開始想的時候 , 大概切分成 2 塊 , 來思考 "前端處理的部分"
+
+- 問題一 : 如何將列印的 Panel 開啟 , 並設定要列印的目標 & 其他列印設定
+- 問題二 : 如何將列印目標固定成 A4 直向 or 橫向
+
+當然 , 如果有後端可以幫忙產 PDF 的話 , 問題二 , 就可以當不存在 , 因為可以叫後端會幫忙處理這塊 ㄎㄎ 😊
+
+## 用 JS 開啟瀏覽器的列印介面
+
+[MDN](https://developer.mozilla.org/zh-TW/docs/Web/API/Window/print) 上只有寫 `window.print()` 然後就沒了 !
+
+這...
+
+可是我希望列印目標的區塊啊!
+
+再進一步查詢後 , 我們可以發現有個 [printJS](https://printjs.crabbly.com/) 
+
+它可以 列印 `PDF` . `HTML` . `IMAGE` . `JSON` , 這就是我們需要的
+
+```javascript
+/*** code snippets ***/
+// 列印 PDF 
+printJS('docs/printjs.pdf')
+printJS({printable: base64, type: 'pdf', base64: true})
+printJS({printable:'docs/xx_large_printjs.pdf', type:'pdf', showModal:true})
+
+// 列印 HTML 
+printJS('printJS-form', 'html')
+printJS({ printable: 'printJS-form', type: 'html', header: 'PrintJS - Form Element Selection' })
+
+// 列印 IMAGE 
+printJS('images/print-01-highres.jpg', 'image')
+printJS({printable: 'images/print-01-highres.jpg', type: 'image', header: 'My cool image header'})
+printJS({
+    printable: ['images/print-01-highres.jpg', 'images/print-02-highres.jpg', 'images/print-03-highres.jpg'],
+    type: 'image',
+    header: 'Multiple Images',
+    imageStyle: 'width:50%;margin-bottom:20px;'
+})
+
+// 列印 JSON 
+printJS({
+    printable: someJSONdata,
+    properties: [
+        { field: 'name', displayName: 'Full Name'},
+        { field: 'email', displayName: 'E-mail'},
+        { field: 'phone', displayName: 'Phone'}
+    ],
+    type: 'json'
+})
+```
+
+太棒了 ! 可以列印指定的區塊 , 可是...列印參數要如何指定阿 ? 
+
+![img.png](img.png)
+
+
 
 1. 都丟給後端處理
 2. 請後端傳輸 PDF 到前端 , 由前端打開瀏覽器的列印介面
@@ -16,6 +72,8 @@
 5. 前端 coding 一份 pdf , 並直接打開瀏覽器的列印介面
 
 ---
+
+如果需要 
 
 叫出列印介面 , 我們可以利用 [printJS](https://printjs.crabbly.com/) 這個套件來輔助處理
 
@@ -37,8 +95,6 @@ printJS({printable: base64, type: 'pdf', base64: true})
 
 ```javascript
 // 使用的套件有 html2canvas . jsPDF . printJS
-const defaultTarget = '#right-side > .header-wrapper + .content .main'
-
 class PrintCtrl {
 
   _doScreenshot = async target => {
@@ -90,11 +146,11 @@ class PrintCtrl {
 
   /**
    * 直接打開列印 Panel , 列印 A4 頁面
-   * @param target
-   * @param url
+   * @param target 將 iframe 附加的目標
+   * @param url 要列印的頁面
    * @param orientation A4 方向 , 有 landscape = 橫式 . portrait = 直式
    */
-  print({ target = defaultTarget, url, orientation = 'portrait' } = {}) {
+  print({ target, url, orientation = 'portrait' } = {}) {
 
     if (!target) throw new Error('iframe cannot append be undefined target')
 
