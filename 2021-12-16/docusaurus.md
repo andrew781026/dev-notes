@@ -16,3 +16,10 @@
 ~$ npx create-docusaurus@latest my-website classic
 ```
 
+> 設定 `docs` 資料夾建立 md 筆記
+
+在 `docusaurus.config.js` 中設定資料夾 `docs` 
+
+```javascript
+
+```
