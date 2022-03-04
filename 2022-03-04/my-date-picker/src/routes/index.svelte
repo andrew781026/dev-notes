@@ -1,79 +1,80 @@
 <script>
-    let a = 1;
-    let b = 2;
+  let date = new Date();
+  let format = 'YYYY-MM-DD';
+  let viewMode = 'days';
 </script>
 
 <div class="date-picker-container bottom">
-    <div class="date-picker-days">
-        <!-- 放 prev . next icon & 目前年月的地方 -->
-        <div class="date-picker-header">
-            <i class="prev"></i>
-            <div class="year-month flex-1">
-                <span>2022</span>
-                <span> 年 </span>
-                <span> 12 </span>
-                <span> 月 </span>
-            </div>
-            <i class="next"></i>
-        </div>
-        <!-- 放至內容的地方 -->
-        <div class="date-picker-body">
-            <div class="weekdays">
-                <span>日</span>
-                <span>一</span>
-                <span>二</span>
-                <span>三</span>
-                <span>四</span>
-                <span>五</span>
-                <span>六</span>
-            </div>
-            <div class="days-container">
-                <!-- 總共有 6 行 -->
-                <span class="day old">27</span>
-                <span class="day old">28</span>
-                <span class="day">1</span>
-                <span class="day">2</span>
-                <span class="day">3</span>
-                <span class="day active today">4</span>
-                <span class="day">5</span>
-                <span class="day">6</span>
-                <span class="day">7</span>
-                <span class="day">8</span>
-                <span class="day">9</span>
-                <span class="day">10</span>
-                <span class="day">11</span>
-                <span class="day">12</span>
-                <span class="day">13</span>
-                <span class="day">14</span>
-                <span class="day">15</span>
-                <span class="day">16</span>
-                <span class="day">17</span>
-                <span class="day">18</span>
-                <span class="day">19</span>
-                <span class="day">20</span>
-                <span class="day">21</span>
-                <span class="day">22</span>
-                <span class="day">23</span>
-                <span class="day">24</span>
-                <span class="day">25</span>
-                <span class="day">26</span>
-                <span class="day">27</span>
-                <span class="day">28</span>
-                <span class="day">29</span>
-                <span class="day">30</span>
-                <span class="day">31</span>
-                <span class="day old">1</span>
-                <span class="day old">2</span>
-                <span class="day old">3</span>
-                <span class="day old">4</span>
-                <span class="day old">5</span>
-                <span class="day old">6</span>
-                <span class="day old">7</span>
-                <span class="day old">8</span>
-                <span class="day old">9</span>
-            </div>
-        </div>
+  <div class="date-picker-days">
+    <!-- 放 prev . next icon & 目前年月的地方 -->
+    <div class="date-picker-header">
+      <i class="prev" />
+      <div class="year-month flex-1">
+        <span>2022</span>
+        <span> 年 </span>
+        <span> 12 </span>
+        <span> 月 </span>
+      </div>
+      <i class="next" />
     </div>
+    <!-- 放至內容的地方 -->
+    <div class="date-picker-body">
+      <div class="weekdays">
+        <span>日</span>
+        <span>一</span>
+        <span>二</span>
+        <span>三</span>
+        <span>四</span>
+        <span>五</span>
+        <span>六</span>
+      </div>
+      <div class="days-container">
+        <!-- 總共有 6 行 -->
+        <span class="day old">27</span>
+        <span class="day old">28</span>
+        <span class="day">1</span>
+        <span class="day">2</span>
+        <span class="day">3</span>
+        <span class="day active today">4</span>
+        <span class="day">5</span>
+        <span class="day">6</span>
+        <span class="day">7</span>
+        <span class="day">8</span>
+        <span class="day">9</span>
+        <span class="day">10</span>
+        <span class="day">11</span>
+        <span class="day">12</span>
+        <span class="day">13</span>
+        <span class="day">14</span>
+        <span class="day">15</span>
+        <span class="day">16</span>
+        <span class="day">17</span>
+        <span class="day">18</span>
+        <span class="day">19</span>
+        <span class="day">20</span>
+        <span class="day">21</span>
+        <span class="day">22</span>
+        <span class="day">23</span>
+        <span class="day">24</span>
+        <span class="day">25</span>
+        <span class="day">26</span>
+        <span class="day">27</span>
+        <span class="day">28</span>
+        <span class="day">29</span>
+        <span class="day">30</span>
+        <span class="day">31</span>
+        <span class="day old">1</span>
+        <span class="day old">2</span>
+        <span class="day old">3</span>
+        <span class="day old">4</span>
+        <span class="day old">5</span>
+        <span class="day old">6</span>
+        <span class="day old">7</span>
+        <span class="day old">8</span>
+        <span class="day old">9</span>
+      </div>
+    </div>
+  </div>
 </div>
 
 <style lang="scss">
@@ -82,11 +83,10 @@
     box-sizing: border-box;
     font-size: 13px;
     font-family: MicrosoftJhengHei, serif;
-    text-align: left;
     background-clip: padding-box;
     box-shadow: 0 2px 6px 2px rgba(0, 0, 0, 0.15);
     color: #212529;
-    border: 1px solid rgba(0, 0, 0, .15);
+    border: 1px solid rgba(0, 0, 0, 0.15);
     border-radius: 0.25rem;
     min-width: 10rem;
     z-index: 1000;
@@ -101,28 +101,28 @@
       box-sizing: border-box;
     }
 
-    ::before {
+    &::before {
       content: '';
       display: inline-block;
       position: absolute;
     }
 
-    ::after {
+    &::after {
       content: '';
       display: inline-block;
       position: absolute;
     }
 
-    .bottom::before {
+    &.bottom::before {
       border-left: 7px solid transparent;
       border-right: 7px solid transparent;
       border-bottom: 7px solid #ccc;
-      border-bottom-color: rgba(0, 0, 0, .2);
+      border-bottom-color: rgba(0, 0, 0, 0.2);
       top: -7px;
       left: 7px;
     }
 
-    .bottom::after {
+    &.bottom::after {
       border-left: 6px solid transparent;
       border-right: 6px solid transparent;
       border-bottom: 6px solid #fff;
@@ -135,19 +135,21 @@
     color: #dee2e6;
   }
 
-  .date-picker-body .days-container .day, .weekdays span {
+  .date-picker-body .days-container .day,
+  .weekdays span {
     height: 30px;
     line-height: 30px;
     text-align: center;
   }
 
   .date-picker-body .days-container .day:hover {
-    background-color: rgba(51, 139, 248, .25);
+    background-color: rgba(51, 139, 248, 0.25);
     cursor: pointer;
     border-radius: 0.25rem;
   }
 
-  .date-picker-header i:hover, .date-picker-header .year-month:hover {
+  .date-picker-header i:hover,
+  .date-picker-header .year-month:hover {
     background: #f8f9fa;
     cursor: pointer;
   }
