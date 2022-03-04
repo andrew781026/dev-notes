@@ -6,12 +6,24 @@
     let viewMode = 'days'; // 有 'times' . 'days' . 'months' . 'years' . 'decades'
     let viewDate = selectDate ? moment(selectDate).startOf('month') : moment();
 
+    function setViewMode(newViewMode) {
+        viewMode = newViewMode;
+    }
+
     function minusMonthToViewDate() {
         viewDate = moment(viewDate).subtract(1, 'month');
     }
 
+    function minusYearToViewDate() {
+        viewDate = moment(viewDate).subtract(1, 'year');
+    }
+
     function addMonthToViewDate() {
         viewDate = moment(viewDate).add(1, 'month');
+    }
+
+    function addYearToViewDate() {
+        viewDate = moment(viewDate).add(1, 'year');
     }
 
     function getDateArr(viewDate) {
@@ -32,7 +44,7 @@
         return dateArr;
     }
 
-    function getDayClass(selectDate,day) {
+    function getDayClass(selectDate, day) {
 
         if (selectDate.isSame(day) && day.isSame(moment().startOf('day'))) return 'day today active'
         else if (selectDate.isSame(day)) return 'day active'
@@ -49,43 +61,83 @@
 </script>
 
 <div class="date-picker-container bottom">
-    <div class="date-picker-days">
-        <!-- 放 prev . next icon & 目前年月的地方 -->
-        <div class="date-picker-header">
-            <div class="icon" on:click={minusMonthToViewDate}>
-                <i class="prev"/>
+    {#if viewMode === 'days'}
+        <div class="date-picker-days">
+            <!-- 放 prev . next icon & 目前年月的地方 -->
+            <div class="date-picker-header">
+                <div class="icon" on:click={minusMonthToViewDate}>
+                    <i class="prev"/>
+                </div>
+                <div class="year-month flex-1 text-center" on:click={ ()=>setViewMode('months') }>
+                    <span>{viewDate.year()}</span>
+                    <span> 年 </span>
+                    <span>{viewDate.month() + 1}</span>
+                    <span> 月 </span>
+                </div>
+                <div class="icon" on:click={addMonthToViewDate}>
+                    <i class="next"/>
+                </div>
             </div>
-            <div class="year-month flex-1 text-center" on:click={console.log}>
-                <span>{viewDate.year()}</span>
-                <span> 年 </span>
-                <span>{viewDate.month() + 1}</span>
-                <span> 月 </span>
-            </div>
-            <div class="icon" on:click={addMonthToViewDate}>
-                <i class="next"/>
-            </div>
-        </div>
-        <!-- 放至內容的地方 -->
-        <div class="date-picker-body">
-            <div class="weekdays">
-                <span>日</span>
-                <span>一</span>
-                <span>二</span>
-                <span>三</span>
-                <span>四</span>
-                <span>五</span>
-                <span>六</span>
-            </div>
-            <div class="days-container">
-                <!-- 總共有 6 行 -->
-                {#each getDateArr(viewDate) as day, i}
+            <!-- 放至內容的地方 -->
+            <div class="date-picker-body">
+                <div class="weekdays">
+                    <span>日</span>
+                    <span>一</span>
+                    <span>二</span>
+                    <span>三</span>
+                    <span>四</span>
+                    <span>五</span>
+                    <span>六</span>
+                </div>
+                <div class="days-container">
+                    <!-- 總共有 6 行 -->
+                    {#each getDateArr(viewDate) as day, i}
                     <span class="{getDayClass(selectDate,day)}" on:click={() => selectDay(day)}>
                         {day.date()}
                     </span>
-                {/each}
+                    {/each}
+                </div>
             </div>
         </div>
-    </div>
+    {/if}
+
+    {#if viewMode === 'months'}
+        <div class="date-picker-months">
+            <!-- 放 prev . next icon & 目前年月的地方 -->
+            <div class="date-picker-header">
+                <div class="icon" on:click={minusYearToViewDate}>
+                    <i class="prev"/>
+                </div>
+                <div class="year-month flex-1 text-center" on:click={ ()=>setViewMode('years') }>
+                    <span>{viewDate.year()}</span>
+                    <span> 年 </span>
+                </div>
+                <div class="icon" on:click={addYearToViewDate}>
+                    <i class="next"/>
+                </div>
+            </div>
+            <!-- 放至內容的地方 -->
+            <div class="date-picker-body">
+                <div class="weekdays">
+                    <span>日</span>
+                    <span>一</span>
+                    <span>二</span>
+                    <span>三</span>
+                    <span>四</span>
+                    <span>五</span>
+                    <span>六</span>
+                </div>
+                <div class="days-container">
+                    <!-- 總共有 6 行 -->
+                    {#each getDateArr(viewDate) as day, i}
+                    <span class="{getDayClass(selectDate,day)}" on:click={() => selectDay(day)}>
+                        {day.date()}
+                    </span>
+                    {/each}
+                </div>
+            </div>
+        </div>
+    {/if}
 </div>
 
 <style lang="scss">
