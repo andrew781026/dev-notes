@@ -1,0 +1,156 @@
+/* Write your global styles here, in SCSS syntax. Variables and mixins from the src/variables.scss file are available here without importing */
+
+:root {
+  --date-picker-primary-color: #60ba9a;
+}
+
+.date-picker-container .date-picker-body .months-container {
+
+  display: grid;
+  grid-template-columns: repeat(4, 54px);
+
+  .month {
+    position: relative;
+    height: 54px;
+    text-align: center;
+    margin: 2px 1.5px;
+    cursor: pointer;
+    border-radius: 0.25rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    &.disabled {
+      color: #dee2e6;
+      cursor: not-allowed;
+    }
+
+    &:not(.disabled):not(.active):hover {
+      background-color: #f8f9fa;
+      cursor: pointer;
+      border-radius: 0.25rem;
+    }
+
+    &.active {
+      color: var(--date-picker-primary-color);
+      font-weight: 900;
+      background-color: #dee2e6;
+      font-size: 20px;
+    }
+
+    &.active.smaller {
+      font-size: 16px;
+    }
+  }
+}
+
+.date-picker-container i {
+  height: 12px;
+  width: 12px;
+  display: inline-block;
+  background-size: contain;
+  background-repeat: no-repeat;
+
+  &.prev {
+    background-image: url("data:image/svg+xml,%3C%3Fxml version='1.0' encoding='iso-8859-1'%3F%3E%3C!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0) --%3E%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 55.753 55.753' style='enable-background:new 0 0 55.753 55.753;' xml:space='preserve'%3E%3Cg%3E%3Cpath d='M12.745,23.915c0.283-0.282,0.59-0.52,0.913-0.727L35.266,1.581c2.108-2.107,5.528-2.108,7.637,0.001 c2.109,2.108,2.109,5.527,0,7.637L24.294,27.828l18.705,18.706c2.109,2.108,2.109,5.526,0,7.637 c-1.055,1.056-2.438,1.582-3.818,1.582s-2.764-0.526-3.818-1.582L13.658,32.464c-0.323-0.207-0.632-0.445-0.913-0.727 c-1.078-1.078-1.598-2.498-1.572-3.911C11.147,26.413,11.667,24.994,12.745,23.915z'/%3E%3C/g%3E%3C/svg%3E%0A");
+  }
+
+  &.next {
+    background-image: url("data:image/svg+xml,%3C%3Fxml version='1.0' encoding='iso-8859-1'%3F%3E%3C!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0) --%3E%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 55.752 55.752' style='enable-background:new 0 0 55.752 55.752;' xml:space='preserve'%3E%3Cg%3E%3Cpath d='M43.006,23.916c-0.28-0.282-0.59-0.52-0.912-0.727L20.485,1.581c-2.109-2.107-5.527-2.108-7.637,0.001 c-2.109,2.108-2.109,5.527,0,7.637l18.611,18.609L12.754,46.535c-2.11,2.107-2.11,5.527,0,7.637c1.055,1.053,2.436,1.58,3.817,1.58 s2.765-0.527,3.817-1.582l21.706-21.703c0.322-0.207,0.631-0.444,0.912-0.727c1.08-1.08,1.598-2.498,1.574-3.912 C44.605,26.413,44.086,24.993,43.006,23.916z'/%3E%3C/g%3E%3C/svg%3E%0A");
+  }
+}
+
+.date-picker-container .icon {
+  height: 30px;
+  width: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+
+  &:hover {
+    background: #f8f9fa;
+  }
+
+  &[disabled="true"] {
+    cursor: not-allowed;
+    filter: opacity(0.2);
+  }
+}
+
+.date-picker-container .text-center {
+  text-align: center;
+}
+
+.date-picker-container {
+  position: fixed;
+  left: 0;
+  top:  0;
+  user-select: none;
+  background-color: #fff;
+  box-sizing: border-box;
+  font-size: 13px;
+  font-family: MicrosoftJhengHei, serif;
+  background-clip: padding-box;
+  box-shadow: 0 2px 6px 2px rgba(0, 0, 0, 0.15);
+  color: #212529;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  border-radius: 0.25rem;
+  min-width: 10rem;
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  margin: 2px 0;
+  padding: 8px;
+  list-style: none;
+
+  * {
+    box-sizing: border-box;
+  }
+
+  &::before {
+    content: '';
+    display: inline-block;
+    position: absolute;
+  }
+
+  &::after {
+    content: '';
+    display: inline-block;
+    position: absolute;
+  }
+
+  &.bottom::before {
+    border-left: 7px solid transparent;
+    border-right: 7px solid transparent;
+    border-bottom: 7px solid #ccc;
+    border-bottom-color: rgba(0, 0, 0, 0.2);
+    top: -7px;
+    left: 7px;
+  }
+
+  &.bottom::after {
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-bottom: 6px solid #fff;
+    top: -6px;
+    left: 8px;
+  }
+}
+
+.date-picker-header .year-month:not(.disabled):hover {
+  cursor: pointer;
+  background: #f8f9fa;
+}
+
+.date-picker-header {
+  display: flex;
+  align-items: center;
+  font-weight: 900;
+  line-height: 30px;
+  font-size: 16px;
+}
+
+.date-picker-container .flex-1 {
+  flex-grow: 1;
+}
