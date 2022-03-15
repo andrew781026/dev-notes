@@ -2,6 +2,7 @@
 
 :root {
   --date-picker-primary-color: #60ba9a;
+  --sliver: #cccccc;
 }
 
 .date-picker-container .date-picker-body .months-container {
@@ -42,6 +43,10 @@
       font-size: 16px;
     }
   }
+}
+
+.hide {
+  display: none;
 }
 
 .date-picker-container i {
@@ -85,7 +90,7 @@
 .date-picker-container {
   position: fixed;
   left: 0;
-  top:  0;
+  top: 0;
   user-select: none;
   background-color: #fff;
   box-sizing: border-box;
@@ -103,6 +108,14 @@
   margin: 2px 0;
   padding: 8px;
   list-style: none;
+
+  &.hide {
+    display: none;
+  }
+
+  &.show {
+    display: flex;
+  }
 
   * {
     box-sizing: border-box;
