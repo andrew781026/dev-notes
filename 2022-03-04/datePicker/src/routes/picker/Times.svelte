@@ -8,6 +8,7 @@
     export let setViewMode
     export let setSelectDate
     export let setViewDate
+    export let format
 
     const hasPrev = (viewDate) => minDate ? (minDate.isBefore(moment(viewDate).startOf('month'))) : true
     const hasNext = (viewDate) => maxDate ? (maxDate.isAfter(moment(viewDate).endOf('month'))) : true
@@ -19,13 +20,15 @@
         if (minDate && day.isBefore(minDate)) return null
         else if (maxDate && day.isAfter(maxDate)) return null
         else if (viewDate.month() !== day.month()) {
+
             setViewDate(day)
             setSelectDate(day)
-        } else return setSelectDate(day)
+
+        }  else return setSelectDate(day)
     }
 
-    // 點擊 時鐘 icon , 切換到 "時間選擇器"
-    const toTimePicker = () => setViewMode('times')
+    // 點擊 日曆 icon , 切換到 "日期選擇器"
+    const toDayPicker = () => setViewMode('days')
 
     function getDayArr(viewDate) {
 
@@ -62,18 +65,9 @@
 
 <div class='date-picker-days'>
     <!-- 放 prev . next icon & 目前年月的地方 -->
-    <div class='date-picker-header'>
-        <div class='icon' on:click={minusMonthToViewDate} disabled={!hasPrev(viewDate)}>
-            <i class='prev'/>
-        </div>
-        <div class='year-month flex-1 text-center' on:click={ ()=>setViewMode('months') }>
-            <span>{viewDate.year()}</span>
-            <span> 年 </span>
-            <span>{viewDate.month() + 1}</span>
-            <span> 月 </span>
-        </div>
-        <div class='icon' on:click={addMonthToViewDate} disabled={!hasNext(viewDate)}>
-            <i class='next'/>
+    <div class="toggle-wrap">
+        <div class='icon flex-1' on:click={toDayPicker}>
+            <i class='calendar'/>
         </div>
     </div>
     <!-- 放至內容的地方 -->
@@ -94,12 +88,6 @@
           {day.date()}
         </span>
             {/each}
-        </div>
-    </div>
-    <!-- 放時間 icon -->
-    <div class="toggle-wrap">
-        <div class='icon flex-1' on:click={toTimePicker}>
-            <i class='time'/>
         </div>
     </div>
 </div>

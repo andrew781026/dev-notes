@@ -2,6 +2,7 @@
     import moment from 'moment'
     import Days from './Days.svelte'
     import Months from './Months.svelte'
+    import Times from './Times.svelte'
     import Years from './Years.svelte'
     import Decades from './Decades.svelte'
     import {onMount} from "svelte";
@@ -80,9 +81,11 @@
 
 </script>
 
-<div class='date-picker-container bottom' class:hide="{pickerHide}" bind:this={datePicker}>
+<div class='date-picker-container bottom' bind:this={datePicker}>
     {#if viewMode === 'days'}
         <Days {selectDate} {viewDate} {minDate} {maxDate} {setSelectDate} {setViewMode} {setViewDate}/>
+    {:else if viewMode === 'times'}
+        <Times {selectDate} {viewDate} {minDate} {maxDate} {format} {setSelectDate} {setViewMode} {setViewDate}/>
     {:else if viewMode === 'months'}
         <Months {selectDate} {viewDate} {minDate} {maxDate} {format} {setSelectDate} {setViewMode} {setViewDate}/>
     {:else if viewMode === 'years'}
