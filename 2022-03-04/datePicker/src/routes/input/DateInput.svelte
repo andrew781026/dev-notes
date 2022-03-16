@@ -2,38 +2,30 @@
     import {onMount} from 'svelte';
 
     let dateInput;
-    export let setPickerHide
-    export let setTargetInput
-    export let setPickerPosition
-    export let getInputPosition
 
     onMount(() => {
 
         const $input = window.$(dateInput)
 
-        dateInput.addEventListener('focus', () => {
+        const open = () => window.DateTimePicker.open(dateInput)
+        const viewMode = (newViewMode) => window.DateTimePicker.viewMode(newViewMode)
 
-            setTargetInput(dateInput)
-            setPickerHide(false)
-            setPickerPosition(getInputPosition(dateInput))
-        })
-
-        // 設定 DateTimePicker 的
         $input.data('DateTimePicker', {
-            date: () => console.log("設定日期"),
+            date: () => console.log("設定日期"), // 取得目前的時間
             format: () => console.log("日期的文字格式"),
             minDate: () => console.log("最小日期"),
             maxDate: () => console.log("最大大日期"),
             defaultDate: () => console.log("預設日期"),
-            viewMode: () => console.log("目前顯示模式"),
+            viewMode,
             showClear: () => console.log("顯示清除按鈕"),
             showClose: () => console.log("顯示關閉按鈕"),
             keepOpen: () => console.log("選定日期後 , 還是開著 DatePicker"),
             debug: () => console.log("Will cause the date picker to stay open after a blur event."),
             close: () => console.log("DatePicker close !!"),
-            open: () => console.log("DatePicker Open !!"),
+            open,
         })
 
+        $input.on('focus', open)
     })
 </script>
 
