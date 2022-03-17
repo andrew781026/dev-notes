@@ -13,7 +13,7 @@
     const getMinuteArr = () => Array(12).fill('').map((x, i) => i * 5).map(y => (y > 9) ? y : '0' + y)
 </script>
 
-<div class='date-picker-minutes'>
+<div class='date-picker-minutes can-collapse' class:collapse="{viewMode !== 'minutes'}">
     <!-- 放 prev . next icon & 目前年月的地方 -->
     <div class="toggle-wrap">
         <div class='icon flex-1' on:click={toDayPicker}>
@@ -35,6 +35,10 @@
 </div>
 
 <style lang='scss'>
+
+  .date-picker-minutes {
+    height: 240px;
+  }
 
   .minutes-container {
     display: grid;

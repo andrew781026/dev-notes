@@ -13,7 +13,7 @@
     const getHourArr = () => Array(24).fill('').map((x, i) => (i > 9) ? i : '0' + i)
 </script>
 
-<div class='date-picker-hour'>
+<div class='date-picker-hour can-collapse' class:collapse="{viewMode !== 'hours'}">
     <!-- 放 prev . next icon & 目前年月的地方 -->
     <div class="toggle-wrap">
         <div class='icon flex-1' on:click={toDayPicker}>
@@ -35,6 +35,10 @@
 </div>
 
 <style lang='scss'>
+
+  .date-picker-hour {
+    height: 240px;
+  }
 
   .hours-container {
     display: grid;

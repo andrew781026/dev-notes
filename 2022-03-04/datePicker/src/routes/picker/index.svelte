@@ -2,8 +2,6 @@
     import moment from 'moment'
     import DayTime from './DayTime.svelte'
     import Months from './Months.svelte'
-    import Hours from './Hours.svelte'
-    import Minutes from './Minutes.svelte'
     import Years from './Years.svelte'
     import Decades from './Decades.svelte'
     import {onMount} from "svelte";
@@ -82,18 +80,15 @@
 
 </script>
 
-<div class='date-picker-container bottom' bind:this={datePicker}>
-    {#if viewMode === 'days' || viewMode === 'times' }
-        <DayTime {selectDate} {viewDate} {viewMode} {minDate} {maxDate} {setSelectDate} {setViewMode} {setViewDate}/>
-    {:else if viewMode === 'hours'}
-        <Hours {selectDate} {viewDate} {minDate} {maxDate} {format} {setSelectDate} {setViewMode} {setViewDate}/>
-    {:else if viewMode === 'minutes'}
-        <Minutes {selectDate} {viewDate} {minDate} {maxDate} {format} {setSelectDate} {setViewMode} {setViewDate}/>
-    {:else if viewMode === 'months'}
+<div class='date-picker-container bottom' bind:this={datePicker} class:hide="{pickerHide}">
+
+    {#if viewMode === 'months'}
         <Months {selectDate} {viewDate} {minDate} {maxDate} {format} {setSelectDate} {setViewMode} {setViewDate}/>
     {:else if viewMode === 'years'}
         <Years {selectDate} {viewDate} {minDate} {maxDate} {format} {setSelectDate} {setViewMode} {setViewDate}/>
     {:else if viewMode === 'decades'}
         <Decades {selectDate} {viewDate} {minDate} {maxDate} {setSelectDate} {setViewMode} {setViewDate}/>
+    {:else}
+        <DayTime {selectDate} {viewDate} {viewMode} {minDate} {maxDate} {setSelectDate} {setViewMode} {setViewDate}/>
     {/if}
 </div>

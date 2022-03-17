@@ -61,7 +61,7 @@
 
 </script>
 
-<div class='date-picker-days' class:collapse="{viewMode === 'times'}">
+<div class='date-picker-days can-collapse' class:collapse="{viewMode !== 'days'}">
     <!-- 放 prev . next icon & 目前年月的地方 -->
     <div class='date-picker-header'>
         <div class='icon' on:click={minusMonthToViewDate} disabled={!hasPrev(viewDate)}>
@@ -109,12 +109,6 @@
 
   .date-picker-days {
     height: 270px;
-    transition: height 0.3s;
-    overflow:hidden;
-
-    &.collapse {
-      height: 0;
-    }
   }
 
   .date-picker-body .days-container .day {

@@ -18,7 +18,7 @@
     const minusMinutes = () => setSelectDate(selectDate.subtract(1, 'minutes'))
 </script>
 
-<div class='date-picker-times' class:collapse="{viewMode === 'days'}">
+<div class='date-picker-times can-collapse' class:collapse="{viewMode !== 'times'}">
     <!-- 放 prev . next icon & 目前年月的地方 -->
     <div class="toggle-wrap">
         <div class='icon flex-1' on:click={toDayPicker}>
@@ -56,20 +56,14 @@
 
 <style lang='scss'>
 
+  .date-picker-times {
+    height: 240px;
+  }
+
   .times-container {
     display: grid;
     gap: 24px;
     grid-template-columns: repeat(3, 54px);
-  }
-
-  .date-picker-times {
-    height: 240px;
-    transition: height 0.3s;
-    overflow: hidden;
-
-    &.collapse {
-      height: 0;
-    }
   }
 
   .time-picker-body .times-container .time {
