@@ -3,6 +3,7 @@
 
     export let selectDate
     export let viewDate
+    export let viewMode
     export let minDate
     export let maxDate
     export let setViewMode
@@ -60,7 +61,7 @@
 
 </script>
 
-<div class='date-picker-days'>
+<div class='date-picker-days' class:collapse="{viewMode === 'times'}">
     <!-- 放 prev . next icon & 目前年月的地方 -->
     <div class='date-picker-header'>
         <div class='icon' on:click={minusMonthToViewDate} disabled={!hasPrev(viewDate)}>
@@ -105,6 +106,16 @@
 </div>
 
 <style lang='scss'>
+
+  .date-picker-days {
+    height: 270px;
+    transition: height 0.3s;
+    overflow:hidden;
+
+    &.collapse {
+      height: 0;
+    }
+  }
 
   .date-picker-body .days-container .day {
     position: relative;

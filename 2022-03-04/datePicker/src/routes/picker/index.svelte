@@ -1,8 +1,9 @@
 <script>
     import moment from 'moment'
-    import Days from './Days.svelte'
+    import DayTime from './DayTime.svelte'
     import Months from './Months.svelte'
-    import Times from './Times.svelte'
+    import Hours from './Hours.svelte'
+    import Minutes from './Minutes.svelte'
     import Years from './Years.svelte'
     import Decades from './Decades.svelte'
     import {onMount} from "svelte";
@@ -15,7 +16,7 @@
     let maxDate = null;
     let selectDate = moment().startOf('day')
     let format = 'YYYY-MM-DD'
-    let viewMode = 'days' // 有 'times' . 'hour' . 'minus' . 'days' . 'months' . 'years' . 'decades'
+    let viewMode = 'hours' // 有 'times' . 'hours' . 'minus' . 'days' . 'months' . 'years' . 'decades'
     let viewDate = selectDate ? moment(selectDate).startOf('month') : moment()
 
     const setViewMode = newViewMode => viewMode = newViewMode
@@ -82,10 +83,12 @@
 </script>
 
 <div class='date-picker-container bottom' bind:this={datePicker}>
-    {#if viewMode === 'days'}
-        <Days {selectDate} {viewDate} {minDate} {maxDate} {setSelectDate} {setViewMode} {setViewDate}/>
-    {:else if viewMode === 'times'}
-        <Times {selectDate} {viewDate} {minDate} {maxDate} {format} {setSelectDate} {setViewMode} {setViewDate}/>
+    {#if viewMode === 'days' || viewMode === 'times' }
+        <DayTime {selectDate} {viewDate} {viewMode} {minDate} {maxDate} {setSelectDate} {setViewMode} {setViewDate}/>
+    {:else if viewMode === 'hours'}
+        <Hours {selectDate} {viewDate} {minDate} {maxDate} {format} {setSelectDate} {setViewMode} {setViewDate}/>
+    {:else if viewMode === 'minutes'}
+        <Minutes {selectDate} {viewDate} {minDate} {maxDate} {format} {setSelectDate} {setViewMode} {setViewDate}/>
     {:else if viewMode === 'months'}
         <Months {selectDate} {viewDate} {minDate} {maxDate} {format} {setSelectDate} {setViewMode} {setViewDate}/>
     {:else if viewMode === 'years'}

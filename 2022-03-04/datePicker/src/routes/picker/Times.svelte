@@ -1,168 +1,94 @@
 <script>
-    import moment from 'moment'
-
     export let selectDate
     export let viewDate
+    export let viewMode
     export let minDate
     export let maxDate
     export let setViewMode
     export let setSelectDate
-    export let setViewDate
-    export let format
-
-    const hasPrev = (viewDate) => minDate ? (minDate.isBefore(moment(viewDate).startOf('month'))) : true
-    const hasNext = (viewDate) => maxDate ? (maxDate.isAfter(moment(viewDate).endOf('month'))) : true
-
-    const minusMonthToViewDate = () => hasPrev(viewDate) && setViewDate(moment(viewDate).subtract(1, 'month'))
-    const addMonthToViewDate = () => hasNext(viewDate) && setViewDate(moment(viewDate).add(1, 'month'))
-    const selectDay = day => {
-
-        if (minDate && day.isBefore(minDate)) return null
-        else if (maxDate && day.isAfter(maxDate)) return null
-        else if (viewDate.month() !== day.month()) {
-
-            setViewDate(day)
-            setSelectDate(day)
-
-        }  else return setSelectDate(day)
-    }
 
     // 點擊 日曆 icon , 切換到 "日期選擇器"
     const toDayPicker = () => setViewMode('days')
+    const toHourPicker = () => setViewMode('hours')
+    const toMinutePicker = () => setViewMode('minutes')
 
-    function getDayArr(viewDate) {
-
-        const row = 6
-        const column = 7
-
-        const firstDate = moment(viewDate).date(1).startOf('week')
-        const dateArr = []
-        dateArr.push(firstDate)
-
-        while (dateArr.length < row * column) {
-
-            const newDate = moment(dateArr[dateArr.length - 1]).add(1, 'day')
-            dateArr.push(newDate)
-        }
-
-        return dateArr
-    }
-
-    function getDayClass(selectDate, day) {
-
-        let classes = 'day'
-
-        if (selectDate.isSame(day)) classes += ' active '
-        if (day.isSame(moment().startOf('day'))) classes += ' today '
-        if (minDate && day.isBefore(minDate)) classes += ' disabled '
-        if (maxDate && day.isAfter(maxDate)) classes += ' disabled '
-        if (viewDate.month() !== day.month()) classes += ' old '
-
-        return classes
-    }
-
+    const addHour = () => setSelectDate(selectDate.add(1, 'hour'))
+    const minusHour = () => setSelectDate(selectDate.subtract(1, 'hour'))
+    const addMinutes = () => setSelectDate(selectDate.add(1, 'minutes'))
+    const minusMinutes = () => setSelectDate(selectDate.subtract(1, 'minutes'))
 </script>
 
-<div class='date-picker-days'>
+<div class='date-picker-times' class:collapse="{viewMode === 'days'}">
     <!-- 放 prev . next icon & 目前年月的地方 -->
     <div class="toggle-wrap">
         <div class='icon flex-1' on:click={toDayPicker}>
             <i class='calendar'/>
         </div>
     </div>
+
     <!-- 放至內容的地方 -->
-    <div class='date-picker-body'>
-        <div class='weekdays'>
-            <span>日</span>
-            <span>一</span>
-            <span>二</span>
-            <span>三</span>
-            <span>四</span>
-            <span>五</span>
-            <span>六</span>
-        </div>
-        <div class='days-container'>
-            <!-- 總共有 6 行 -->
-            {#each getDayArr(viewDate) as day, i}
-        <span class='{getDayClass(selectDate,day)}' on:click={() => selectDay(day)}>
-          {day.date()}
-        </span>
-            {/each}
+    <div class='time-picker-body'>
+        <div class="times-container">
+            <div class="time" on:click={addHour}>
+                <i class='prev green up'/>
+            </div>
+            <div></div>
+            <div class="time" on:click={ addMinutes}>
+                <i class='prev green up'/>
+            </div>
+            <div class="time" on:click={toHourPicker}>
+                {selectDate.hours()}
+            </div>
+            <div class="time colon">：</div>
+            <div class="time" on:click={toMinutePicker}>
+                {selectDate.minutes()}
+            </div>
+            <div class="time" on:click={minusHour}>
+                <i class='prev green down'/>
+            </div>
+            <div></div>
+            <div class="time" on:click={minusMinutes}>
+                <i class='prev green down'/>
+            </div>
         </div>
     </div>
 </div>
 
 <style lang='scss'>
 
-  .date-picker-body .days-container .day {
-    position: relative;
-    height: 30px;
-    line-height: 30px;
-    text-align: center;
+  .times-container {
+    display: grid;
+    gap: 24px;
+    grid-template-columns: repeat(3, 54px);
+  }
 
-    &.disabled {
+  .date-picker-times {
+    height: 240px;
+    transition: height 0.3s;
+    overflow: hidden;
+
+    &.collapse {
+      height: 0;
+    }
+  }
+
+  .time-picker-body .times-container .time {
+    position: relative;
+    height: 54px;
+    line-height: 54px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 1.4em;
+
+    &.disabled, &:disabled {
       color: #dee2e6;
       cursor: not-allowed;
     }
 
-    &.old {
-      color: #dee2e6;
-    }
-
-    &:not(.disabled):hover {
-      background-color: rgba(51, 139, 248, 0.25);
-      cursor: pointer;
+    &:not(.disabled):not(.colon):hover {
       border-radius: 0.25rem;
+      cursor: pointer;
+      background-color: #f8f9fa;
     }
-
-    &.active.today::before {
-      border-bottom-color: #fff;
-    }
-
-    &.today {
-      color: var(--date-picker-primary-color);
-      font-weight: 700;
-      font-size: 16px;
-    }
-
-    &.active {
-      font-weight: 700;
-      font-size: 16px;
-      color: #fff;
-      background-color: var(--date-picker-primary-color);
-      border-radius: 50%;
-      padding: 0;
-      transform: scale(0.8);
-    }
-
-    &.today::before {
-      content: '';
-      display: inline-block;
-      border: solid transparent;
-      border-width: 0 0 7px 7px;
-      border-bottom-color: #dee2e6;
-      border-top-color: rgba(0, 0, 0, .2);
-      position: absolute;
-      bottom: 4px;
-      right: 4px;
-    }
-  }
-
-  .weekdays {
-    display: grid;
-    grid-template-columns: repeat(7, 30px);
-
-    span {
-      position: relative;
-      height: 30px;
-      line-height: 30px;
-      text-align: center;
-      font-weight: 700;
-    }
-  }
-
-  .days-container {
-    display: grid;
-    grid-template-columns: repeat(7, 30px);
   }
 </style>

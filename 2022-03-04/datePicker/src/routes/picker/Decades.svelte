@@ -6,7 +6,6 @@
   export let minDate
   export let maxDate
   export let setViewMode
-  export let setSelectDate
   export let setViewDate
 
   const hasPrev = (viewDate) => minDate ? (minDate.year() < Math.floor(viewDate.year() / 100) * 100) : true
