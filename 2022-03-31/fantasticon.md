@@ -2,7 +2,7 @@
 
 當你設計完成許多的 Icon 並將其匯出成許多的 SVG Icon , 那你要如何將其轉換成 Icon Fonts
 
-讓其他工程師像 font awesome 一樣簡單的安裝 & 使用 , 你設計的呢 ?
+讓其他工程師像 font awesome 一樣簡單的安裝 & 使用 , 你設計的 Icon 呢 ?
 
 抱著這個疑問 , 我展開了研究 , 找到了 [fantasticon](https://github.com/tancredi/fantasticon) 這個工具
 
