@@ -1,0 +1,1074 @@
+檔案名稱：C:/Users/andrew/Downloads/2021-03-15_17h45_45-removebg-preview.png
+md5 HASH：42dae34d79b39d9158473e6f82fb796d
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/02_CABatchStop3Of1.xls
+md5 HASH：5b32f1505406216c18a85c900dd40eae
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/03_CABatchAdj3Of1.xls
+md5 HASH：f52c5c0de8b25baf636539548a78d15d
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/250X250.jpg
+md5 HASH：d039342d38f53d22770227b74d28bfa3
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/1000X1000.jpg
+md5 HASH：fe35cb44655b2cb43f30b0b4ffb9e72f
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/1000X1000.png
+md5 HASH：e97a4444d6fcbd6b674a49aa9e1773a0
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/450X450.jpg
+md5 HASH：605096ffbd1ef5e4460ac5e349448b69
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/250X250.png
+md5 HASH：c2eb86102f020ad9c388760cb61bea82
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/450X450.png
+md5 HASH：ef2a3e225807a25527553a7699650d01
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/4月1日新增本土COVID-19確診個案表.pdf
+md5 HASH：bb5d7f41c615c1d398cfafb098444d56
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/01_CABatchPay3Of1.xls
+md5 HASH：9c985e56ff2c43ca6555697eb659145e
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/bFECn-W2-Landing Page.xd
+md5 HASH：6a97e52da8d45725c0d6a9423c140b7e
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/calendar.svg
+md5 HASH：a1d35422bf6049dc0c0643c1fcb31c9d
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/36966_作者自我書籍規劃範本 (第11屆鐵人賽Modern Web優選王盛立先生).pdf
+md5 HASH：bf15ebd2cdf39b82a600574d22cd07a2
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/af.js
+md5 HASH：21be89c67a774a46ca72bdc6d7233312
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/az.js
+md5 HASH：547e8ca946589d709a87d5f9cf4556a5
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/ckeditor.js
+md5 HASH：c2a5a6a3feda9964a512b3c22312d227
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/bg.js
+md5 HASH：a7967a035e5b974ba3156f365148c003
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/cs.js
+md5 HASH：3449c77bd62953cf5a6cec45e0120c37
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/ast.js
+md5 HASH：3c06a46c07a8f22002d4d7c95105036c
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/ca.js
+md5 HASH：07258568fa1da71ad07ec0922e9fab1e
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/da.js
+md5 HASH：2b3e5c67f8716ff1fd1e7a5cb4f0a21b
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/de-ch.js
+md5 HASH：58218bad342f55e447b09f8fc402d5b0
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/el.js
+md5 HASH：d7d33e4f61cc7211df8c5490fe1eb17d
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/ckeditor.js.map
+md5 HASH：53d00f471fc8a7252e131071d537d572
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/en-au.js
+md5 HASH：3c5975851ce174570e422268b15146ae
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/eo.js
+md5 HASH：efd4ae6d851d42c793f7288beeef7140
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/en.js
+md5 HASH：da78b89604cdc0ac8e76305e178b2973
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/ar.js
+md5 HASH：77f712ee7b377a7e06a151ac0144a3c5
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/de.js
+md5 HASH：43cb6bcd1c7f56cc76028c95bbb829b1
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/es.js
+md5 HASH：800994541af665c162de074e6dc81bf0
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/fa.js
+md5 HASH：9c06c4a4b51742074a9ff890d51f814d
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/et.js
+md5 HASH：e0f3cd451ea1ed5d60f99ed79898ccb9
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/app-backend-UAT.zip
+md5 HASH：15238a6522a28d635254e4523d236c9f
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/fi.js
+md5 HASH：60379c6fe75bceda90af489e1a22e5c8
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/fr.js
+md5 HASH：bfa0faa663dcee1b852351b7c1e9be22
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/eu.js
+md5 HASH：43c83f8db885e8ec3d9ea498707c2873
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/gl.js
+md5 HASH：767bc216a993437a76f88273d6b179be
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/en-gb.js
+md5 HASH：e80b6c724c41c9eb398f35ededb4047b
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/he.js
+md5 HASH：4e7f39084266e0feec6fc8fb37debf1b
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/hi.js
+md5 HASH：3ef904a24793a5e14b7d0dc4d97f8f6d
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/hr.js
+md5 HASH：95d9b1cf52d1ece14c34f1aea057d498
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/ja.js
+md5 HASH：77545550d64bc8a4ac8bf3ea39461cff
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/it.js
+md5 HASH：a49a12ef6e5a77f215dd1d23bc0a888c
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/gu.js
+md5 HASH：d38dd3d0d5d5222e1181806fbf7b5ea9
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/kk.js
+md5 HASH：52d1be3a8452ac679f6bf627c12fdf40
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/id.js
+md5 HASH：054eb67a9826f86dd1eae1c0d71a92e1
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/hu.js
+md5 HASH：f1b050db0963e57d8fe8d14653df4952
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/km.js
+md5 HASH：4601b6ad58d3d29635855022b73a6ea0
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/lv.js
+md5 HASH：9d4a138c0e94fd6df411d59ac259b1ae
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/lt.js
+md5 HASH：3b137e3bbe43c5a8d9b2a00e1f7f0050
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/kn.js
+md5 HASH：a941ea98145da8931332a1b5ed2add10
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/ko.js
+md5 HASH：118297d72feed2d4c140a61ce4545725
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/ms.js
+md5 HASH：c789def1c5da22833f88fb678566b5fb
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/ne.js
+md5 HASH：b4fd6b02efc6804a152118e20c6cd497
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/ku.js
+md5 HASH：1c62baa5e700955e0e620d1a81c71225
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/oc.js
+md5 HASH：549686591d9176868227978bb6590c3b
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/nb.js
+md5 HASH：02b932860006bd37bf05fc796ea40bd8
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/APP、贈品系統問題反應記錄_20210322_大高13樓測試討論.xlsx
+md5 HASH：56a08d931693c5b86fc59cdba6850987
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/pl.js
+md5 HASH：d7340cf30da1d199239c101d583c85ac
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/ro.js
+md5 HASH：56578b8a14d022c034c4557f027dbe5c
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/pt.js
+md5 HASH：fab3c3c40f40d70d49c1a9c1dcecb2e4
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/pt-br.js
+md5 HASH：7acf84d235852c2b9959dd6717ef364f
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/nl.js
+md5 HASH：5c6842de6010ecd0643d8053f6f6ba4e
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/si.js
+md5 HASH：835ad89920eaf4a47c69c4c2fb4b4364
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/sl.js
+md5 HASH：9430ce194120c2431f3489b6a3154631
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/no.js
+md5 HASH：b3897981325b0773c4028717cd3fad0e
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/sk.js
+md5 HASH：51902f002d5012d080a38c4105a5c309
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/ru.js
+md5 HASH：0d67aae0e799dbe6f8171b8388e39f97
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/sq.js
+md5 HASH：dc598a5a61ddbfd0ac939b53c1403acd
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/sr-latn.js
+md5 HASH：3f5c06adafa45228f8483d6c38aa3dd9
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/sr.js
+md5 HASH：75b03358d88ea0f4bd3cabd97aef6a0b
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/th.js
+md5 HASH：2c386e6fb56e78f72206b34026b717dd
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/tk.js
+md5 HASH：079b177d411816ba04f4cfff432c782f
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/sv.js
+md5 HASH：4aa2615b9a90ea225a772cfc2f0ec139
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/ug.js
+md5 HASH：4e3ce57dc3c8e3226e871f04ed3e79f8
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/uk.js
+md5 HASH：a41740abf885caa683de9687a27fcff4
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/tt.js
+md5 HASH：633cfe299d14e8602df41e82266aaa54
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/vi.js
+md5 HASH：b2ac0407421d1565dac8614e0a633c41
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/tr.js
+md5 HASH：626ddb4712a5d848c3b614b1c8640a7f
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/uz.js
+md5 HASH：8c856a5ec8ba42e24daf1b9d71b3041b
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/LICENSE.md
+md5 HASH：9f3a3450dc385cab52b706707f12d97d
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/sample/index.html
+md5 HASH：158dabab8e09d41826b95aa1fba9ed7d
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/build/translations/zh-cn.js
+md5 HASH：dbd101447f5456bb083dea0faff81623
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/package.json
+md5 HASH：0a21a8ea410434fc5acd5f2dc6429d6b
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/sample/styles.css
+md5 HASH：46b5f1fd8ce08a493d791753f85a8fae
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/src/ckeditor.js
+md5 HASH：f54836a3dfe8dafe0fb7a632a92f08fa
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/context.csv
+md5 HASH：625f2a23b61301b157cbdf41ee4c086b
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/css3-3d-book.rar
+md5 HASH：713c3c6713468cf9e686db9cd09656e9
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/webpack.config.js
+md5 HASH：ebd3b219a7e66131612297676e0f7d64
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p/README.md
+md5 HASH：6c43c9c451264e9df56e17e22b55dfdb
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/desktop.ini
+md5 HASH：3a37312509712d4e12d27240137ff377
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ckeditor5-31.1.0-79opkzbfa6p.zip
+md5 HASH：d8966b48ec4b1f61a3ddf216a42406cc
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Desktop-Destroyer-Game.7z
+md5 HASH：02097636828b5c3b84f8214e4b5d2df8
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com/templatemo_528_elegance/css/animate.css
+md5 HASH：0c55209d137b8ef76630d6d0a320774d
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/ec2-13-250-57-251.ap-southeast-1.compute.amazonaws.com.rdp
+md5 HASH：761988679a52b61b85becf08444ec478
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com/templatemo_528_elegance/css/font-awesome.css
+md5 HASH：25537c7b12dad317fbde10377912a84e
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com/templatemo_528_elegance/css/bootstrap.min.css
+md5 HASH：62907ef14a08ac2199b60610b616d0e5
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com/templatemo_528_elegance/css/flex-slider.css
+md5 HASH：28937749176c6f5c80b1ff214b793104
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/certbot-beta-installer-win32.exe
+md5 HASH：72b7fbfccb7b72bf0503ef8a081f9ba5
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com/templatemo_528_elegance/css/owl.carousel.css
+md5 HASH：b9755c9c2613c455154caf065bd1a94d
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com/templatemo_528_elegance/css/fullpage.min.css
+md5 HASH：d3dfd4c1c182450138b7b8a970ed129b
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com/templatemo_528_elegance/css/templatemo-style.css
+md5 HASH：36ee73b63a41d279dde85d2dadd088e3
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com/templatemo_528_elegance/css/responsive.css
+md5 HASH：b43c574cec21919216c6bbb971ce32d6
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com/templatemo_528_elegance/fonts/flexslider-icon.eot
+md5 HASH：9c9cb7a6055043933ba68854f521af45
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com/templatemo_528_elegance/fonts/Flaticon.woff
+md5 HASH：396f6e0764e4393f8f3f46056258c9c7
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com/templatemo_528_elegance/fonts/flexslider-icon.ttf
+md5 HASH：b4c9e5057989b9727a5df4e0a21af33c
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com/templatemo_528_elegance/fonts/fontawesome-webfont.ttf
+md5 HASH：706450d7bba6374ca02fe167d86685cb
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com/templatemo_528_elegance/fonts/flexslider-icon.woff
+md5 HASH：f8b92f66539473eea649c8514eb836a0
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com/templatemo_528_elegance/fonts/fontawesome-webfont.eot
+md5 HASH：f7c2b4b747b1a225eb8dee034134a1b0
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com/templatemo_528_elegance/fonts/flexslider-icon.svg
+md5 HASH：87b7cecd94ae076c2a7140c321e4452b
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com/templatemo_528_elegance/fonts/fontawesome-webfont.woff
+md5 HASH：d9ee23d59d0e0e727b51368b458a0bff
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/codetogether-4.1.1-00984.zip
+md5 HASH：2d5375e477d024bf1b7e91f3dbf59ce0
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com/templatemo_528_elegance/fonts/fontawesome-webfont.svg
+md5 HASH：139e74e298bca37a25d2bd5868552e04
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com/templatemo_528_elegance/fonts/slick.svg
+md5 HASH：526d7fdf63614222d376257221e8b754
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com/templatemo_528_elegance/fonts/FontAwesome.otf
+md5 HASH：0b462f5cc07779cab3bef252c0271f2b
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com/templatemo_528_elegance/fonts/slick.ttf
+md5 HASH：d41f55a78e6f49a5512878df1737e58a
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com/templatemo_528_elegance/fonts/slick.eot
+md5 HASH：ced611daf7709cc778da928fec876475
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com/templatemo_528_elegance/fonts/fontawesome-webfont.woff2
+md5 HASH：97493d3f11c0a3bd5cbd959f5d19b699
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com/templatemo_528_elegance/fonts/slick.woff
+md5 HASH：b7c9e1e479de3b53f1e4e30ebac2403a
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com/templatemo_528_elegance/images/item-1.jpg
+md5 HASH：c54936167b9771e2520eb8634f380e89
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com/templatemo_528_elegance/images/item-2.jpg
+md5 HASH：2caeb5d01cbd952a278ef70cec498cb1
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com/templatemo_528_elegance/images/main-bg.jpg
+md5 HASH：f0468dbbfe82cf0392dd0b2cafd25c8b
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com/templatemo_528_elegance/images/mouse-scroll.png
+md5 HASH：9f9f908f30532d2d00ae8c16f5355e97
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com/templatemo_528_elegance/images/profile-01.jpg
+md5 HASH：6e62502baed51a0a603118e2869dc911
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com/templatemo_528_elegance/images/profile-girl.jpg
+md5 HASH：35e6ddd8ebe88b2e099c997fe47d0fcf
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com/templatemo_528_elegance/js/custom.js
+md5 HASH：f8732da09d15c7c61b6eccaea681b6b8
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com/templatemo_528_elegance/js/form.js
+md5 HASH：bec3da7f1df8ceacc2f9131d210f1420
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com/templatemo_528_elegance/js/fullpage.min.js
+md5 HASH：e25781cf7232a67891541d86804b4904
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com/templatemo_528_elegance/js/bootstrap.min.js
+md5 HASH：c28a7a2e7c082e39eb7aba2da7a7bbbb
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com/templatemo_528_elegance/images/item-3.jpg
+md5 HASH：b1030dff7b6fcfc510e21b9f34a19b39
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com/templatemo_528_elegance/js/jquery.inview.min.js
+md5 HASH：dedd7031b98a1b0cacec057657f4ef52
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com/templatemo_528_elegance/js/jquery.js
+md5 HASH：2b5348fc8f36bcb650358d9cf56027da
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com/templatemo_528_elegance/index.html
+md5 HASH：744c7a7424293899b5fcdd6a3be0d95d
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com/templatemo_528_elegance/js/owl.carousel.min.js
+md5 HASH：47c357c05cb99cedbac2874840319818
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/elements.zip
+md5 HASH：e04fa5416a1c11db361bd2d1768801ae
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/flash-cards-03.01/flash-cards/package-lock.json
+md5 HASH：a948a936d2c2518116c2af30d3edb985
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/farmer.jpg
+md5 HASH：b0d2d2f9c7d53d21993f5ac40a12b032
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/flash-cards-03.01/flash-cards/package.json
+md5 HASH：275828693f2120befccc325988c12f1d
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com/templatemo_528_elegance/images/video-bg.mp4
+md5 HASH：be0f87b397f96581ee90842f4cb0cc71
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/flash-cards-03.01/flash-cards/public/index.html
+md5 HASH：44e0e8fdfaea9a67bb749e2ae118964d
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/flash-cards-03.01/flash-cards/public/favicon.ico
+md5 HASH：21b3afc23a8217d5a836f63404536681
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com.zip
+md5 HASH：d770f0b3e9b82af081dc4168140028f2
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/flash-cards-03.01/flash-cards/src/components/App/App.js
+md5 HASH：18b1cf33397711914a133c3deb2cf753
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/flash-cards-03.01/flash-cards/public/manifest.json
+md5 HASH：61caa683f418502a26c69d61d32cc1f4
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Elegance Free Website Template - Free-CSS.com/templatemo_528_elegance/js/scrolloverflow.js
+md5 HASH：1a6ceb81ab3e7393a59c229f5a91e7e8
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/flash-cards-03.01/flash-cards/public/logo512.png
+md5 HASH：6634bcf9c93dc138f0227124efb6bff0
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/flash-cards-03.01/flash-cards/src/components/Dashboard/Dashboard.js
+md5 HASH：496eae9e73fbf2002eee03769540a0d4
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/flash-cards-03.01/flash-cards/src/components/Content/Content.js
+md5 HASH：c95b76669f433fde92495b8138c1e69a
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/flash-cards-03.01/flash-cards/src/components/LogIn/LogIn.js
+md5 HASH：3dc2d59ad8161f19603f129595854f9c
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/flash-cards-03.01/flash-cards/src/components/Select/Select.js
+md5 HASH：9ee20a71ef657bdf02392b04f91c58b4
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/flash-cards-03.01/flash-cards/src/components/Nav/Nav.js
+md5 HASH：fea88b99429a75ea3c889298b881bafd
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/flash-cards-03.01/flash-cards/src/components/LandingPage/LandingPage.js
+md5 HASH：cc562abf4bd64179ea2be67a20cc9d29
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/flash-cards-03.01/flash-cards/src/global.css
+md5 HASH：d68a64df4b1352bed220c2133738f215
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/flash-cards-03.01/flash-cards/src/helpers/index.js
+md5 HASH：7bca5a465e1bb4326a0fe6e19cf78cf6
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/flash-cards-03.01/flash-cards/src/helpers/index.test.js
+md5 HASH：a0a2e970c1c2360025d82188b6b9dbab
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/flash-cards-03.01/flash-cards/src/components/SignUp/SignUp.js
+md5 HASH：313073109efc8ce02d55f3c2ebff0394
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/flash-cards-03.01/flash-cards/public/logo192.png
+md5 HASH：065481bc92e6a9c533e320a964ece88c
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/flash-cards-03.01/flash-cards/src/index.js
+md5 HASH：52251c01f8a98b1119d20ac78abdffd7
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/flash-cards-03.01/flash-cards/src/components/Equation/Equation.js
+md5 HASH：4382cf15b000cdf21b6bf6a5404ed94a
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/icon-arr-expand-more.svg
+md5 HASH：b5af162ecce55b05940e791c961ccae8
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/flash-cards-03.01/flash-cards/src/setupTests.js
+md5 HASH：166a26ce4265ed1175aab3efd38ff02b
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/iStaging 2D FrontEnd Engineer Assessment Test.pdf
+md5 HASH：c1fc7ff1257f0cc291aa4d6accbd1fa9
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/.editorconfig
+md5 HASH：82ee37a495cfe15ee5403978abf01dc6
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/form_common.js
+md5 HASH：ff336f7d9c7d03dcde69ea8a1d2454b8
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/.gitignore
+md5 HASH：ec93c9ba6a2054bc63e507c1c4d48ad2
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/flash-cards-03.01.zip
+md5 HASH：17d38cabd72ba2b263afb0502b5ba393
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/icon-arr-expand-more_2021-09-09.zip
+md5 HASH：d5e5fc2352f70f48cd073923e6a2cb0a
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/assets/audio/beep1.mp3
+md5 HASH：ccafe5b3604a1689419f5fe95e5133e0
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/assets/audio/beep2.mp3
+md5 HASH：cfd4ca0b4919ea954399a915dea43886
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/assets/audio/beep1.ogg
+md5 HASH：ed2ffbd3dd80f24ae50e843f3a28dfc0
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/.prettierrc
+md5 HASH：529e977c43b7b505c95b968fcc65448e
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/assets/audio/beep3.mp3
+md5 HASH：62e68570717f419d4a1da7d65138a53f
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/assets/audio/beep3.ogg
+md5 HASH：738ccb7e58a0646fb5306b6d6d9ad85c
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/assets/audio/beep2.ogg
+md5 HASH：145e345817d9c339a5318e755f60bcfa
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/assets/audio/bling2.mp3
+md5 HASH：918abf688235a126fda262cbe50b60e9
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/assets/audio/bling1.mp3
+md5 HASH：d22a2771ac6c1d639e65ed3fcbdadf67
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/assets/audio/bling1.ogg
+md5 HASH：7399991c39498c5f597f9745906f24d1
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/assets/audio/bling2.ogg
+md5 HASH：3be2c64d0380ccc8f566dc604ecf20b0
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/assets/audio/bling3.mp3
+md5 HASH：bca68350b4fd8bfbd13e8bc687f78ceb
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/assets/audio/bling4.mp3
+md5 HASH：b95da9d629c6d48e35d3d27025fd7afe
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/assets/audio/bling3.ogg
+md5 HASH：e230e98d3c375c63903b29ac462bf198
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/assets/audio/bling4.ogg
+md5 HASH：b146e584e1142f821edf484da5d72a9c
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/assets/audio/blop.mp3
+md5 HASH：627c0e8b5b8ef0417ace4d759284a51d
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/assets/audio/bling5.ogg
+md5 HASH：0efe7837a9c5314851fe432c84f5a08f
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/assets/audio/bling5.mp3
+md5 HASH：7d1b51940fddc5cddb927b42260428ee
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/assets/audio/blop.ogg
+md5 HASH：456c4da38fc354289d5a4dec0c1e9296
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/assets/audio/boop1.ogg
+md5 HASH：a61b4e44f6971ade02673e784d6c4643
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/assets/audio/boop1.mp3
+md5 HASH：b32c87adb8c9c2173c28bbf3aa876fd9
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/assets/audio/LICENCE.txt
+md5 HASH：d3fc086268be801da2607f6a7bc35a64
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/charles-proxy-4.5.6-win64.msi
+md5 HASH：affcd0eed5e4cac671bcaa19c8d6b5c5
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/assets/audio/boop3.mp3
+md5 HASH：f12da90a60cbabca97085813b2010e44
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/assets/audio/boop2.ogg
+md5 HASH：6e53c9042612b7d9eed8bd1104611e46
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/demo/es6/css/demo.css
+md5 HASH：c666fa77b41e3e26b5406605a4f31439
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/assets/audio/boop2.mp3
+md5 HASH：753c4e8c6492b8c3abf44a45f79c7802
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/assets/audio/boop3.ogg
+md5 HASH：785932d4f0ec285a82ddfea63ee84c38
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/demo/es6/css/normalize.css
+md5 HASH：a2444750a9473150e0e65e5753511aa4
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/demo/es6/index.html
+md5 HASH：1f57e97fa86ce65e5f5d4be2b13ad841
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/demo/es6/index.js
+md5 HASH：ed5a34d25ffc20a34b4886c8cc0333f5
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/demo/es6/package.json
+md5 HASH：fc838c51d7f3a0b5f504d7c26e3ffee5
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/demo/html/css/demo.css
+md5 HASH：c666fa77b41e3e26b5406605a4f31439
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/demo/html/css/playground-avatars.css
+md5 HASH：1ec956e557a4adb92fc9ad834dd99598
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/demo/html/css/playground-inception.css
+md5 HASH：f3a854e3ba45a23360f00647c35b139b
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/demo/html/css/normalize.css
+md5 HASH：a2444750a9473150e0e65e5753511aa4
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/demo/es6/package-lock.json
+md5 HASH：3df4c597a97292bcbdd65e0b28d05999
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/demo/html/css/playground-login.css
+md5 HASH：1be344eb2ce7ce3081940757abd16910
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/demo/html/index.html
+md5 HASH：01d8524704949d2a646dadfb3c4eacd1
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/demo/html/js/demo.js
+md5 HASH：13773702eb5cfc72b9b41dc15f370c9c
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/demo/html/js/playground-inception.js
+md5 HASH：c556b3e32d270429581267c3e5f3680f
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/demo/html/js/playground-login.js
+md5 HASH：1d86588ac5e19e36c29ab681584e42a1
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/dist/-jbox.css
+md5 HASH：d2a439f760bb1120dab5d181a8b9748e
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/demo/html/js/playground-avatars.js
+md5 HASH：bbd7902c2f900a732b295e690742d0e8
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/dist/jBox.all.js
+md5 HASH：5c9e35142af09446220f15b24abfdd6d
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/dist/jBox.js
+md5 HASH：8cb6b8b350408626cbd150554a692fb5
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/dist/jBox.min.js
+md5 HASH：e551692c4972e389396a7410add5ecc3
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/dist/jbox.css
+md5 HASH：65d75d2a1b7178ef5bd6b43fee8c6e98
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/dist/jBox.all.min.js
+md5 HASH：1059830463f3f21b0c98cc58662ae52e
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/dist/plugins/jBox.Confirm.css
+md5 HASH：6f1cdba48b296151edda201e540445b9
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/dist/plugins/jBox.Confirm.js
+md5 HASH：633ba7ef1eff3488798796cc03818616
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/dist/plugins/jBox.Confirm.min.js
+md5 HASH：07f357de5adf6d552803fd4a32317128
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/dist/plugins/jBox.Confirm.min.css
+md5 HASH：ab4c0b6e28a5081eb8cd1cb04d3894c1
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/dist/jBox.min.css
+md5 HASH：b296c564649e651804dd2e25ce98dc77
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/dist/jBox.all.min.css
+md5 HASH：635885ca2487b51177265000caef5ccc
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/dist/plugins/jBox.Image.min.css
+md5 HASH：93365f4512d70440a01b08d2f4d82277
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/dist/plugins/jBox.Image.css
+md5 HASH：35a2f37f799799e8bc0721fc3dd75c19
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/dist/plugins/jBox.Image.js
+md5 HASH：1b916dad1976370b98940dfd474e70fd
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/dist/plugins/jBox.Notice.css
+md5 HASH：90f1e32f24e65034f53d10501e11e225
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/dist/plugins/jBox.Notice.min.css
+md5 HASH：ba1c4fbcb45a720da99af35d214afb95
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/dist/plugins/jBox.Notice.min.js
+md5 HASH：37c7805ff3b88aa9078f537c27a04735
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/dist/themes/jBox.NoticeFancy.css
+md5 HASH：4b22dea0a9895c4143f281d8b91ff421
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/dist/themes/jBox.TooltipBorder.css
+md5 HASH：0ffe080329d3e05aeec9e289af210300
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/dist/themes/jBox.NoticeFancy.min.css
+md5 HASH：44fee6c382aa793a535f8ac7825e44f4
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/dist/themes/jBox.TooltipBorderThick.css
+md5 HASH：78a41839d2dccb4f8fecd02d7941a769
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/dist/plugins/jBox.Notice.js
+md5 HASH：47b0560217698b1737b03732dfe5d130
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/dist/themes/jBox.TooltipBorder.min.css
+md5 HASH：23ff7ccd4bbbb5ee9b31ebf9852057c3
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/dist/themes/jBox.TooltipBorderThick.min.css
+md5 HASH：54a58a38285fb1610b013a8956661f0f
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/dist/plugins/jBox.Image.min.js
+md5 HASH：c332d2f49ebf13de8007787a37e1a763
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/dist/themes/jBox.TooltipDark.min.css
+md5 HASH：ec0f53e73658cf8428034173e372fdeb
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/dist/themes/jBox.TooltipError.min.css
+md5 HASH：fbc1a5cdcfaa876b1b92af262e4c2ef7
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/dist/themes/jBox.TooltipSmall.min.css
+md5 HASH：bd7f9aa3664338044977a46e43aa6135
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/dist/themes/jBox.TooltipDark.css
+md5 HASH：73fc240fe94a370e39bb4c527010733a
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/dist/themes/jBox.TooltipError.css
+md5 HASH：8641bad3a11b9bad1fee6c761360e042
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/dist/themes/jBox.TooltipSmall.css
+md5 HASH：e3904c16d2f8720ae209b0f047b264b8
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/dist/themes/jBox.TooltipSmallGray.css
+md5 HASH：4f4fc32d8e7e29c4d80e6860967a9953
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/LICENSE
+md5 HASH：5ae4c9af8ef1595c4843198ef9f21484
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/dist/themes/jBox.TooltipSmallGray.min.css
+md5 HASH：6a9ec90156c393ae56dc3fc5e25e5948
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/gulpfile.js
+md5 HASH：4f31464552369a1830da477b1ffa0c07
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/documentation.html
+md5 HASH：0d6250b1493336212e5d7ba141d29a41
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/package.json
+md5 HASH：3538ced45da205594b95c8119756b231
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/src/js/jBox.d.ts
+md5 HASH：ea03f315828e301afbaa4168c65ba571
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/README.md
+md5 HASH：fea636c61470ee36be33fc546f0295d6
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/src/js/jBox.js
+md5 HASH：fde61157b59cbe20ab6985328e1db87a
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/package-lock.json
+md5 HASH：896e9a3aa24074e53ff556938ab03957
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/src/js/plugins/jBox.Image.js
+md5 HASH：2f286b88229db931413098f14e71eab8
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/src/js/plugins/jBox.Confirm.js
+md5 HASH：47fe3544a6eeb3d62bf1395585a3765e
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/src/scss/jBox.scss
+md5 HASH：bf14aef3295fcb4340210aa423243491
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/src/js/plugins/jBox.Notice.js
+md5 HASH：d15313499f129ab3d69debcd5ed03d5f
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/src/js/umd.js
+md5 HASH：5a57c42f57dc67a13d784cd8754a0d69
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/src/scss/plugins/jBox.Confirm.scss
+md5 HASH：31d81f33dad8d96fbb7ce0f88afda346
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/src/scss/themes/jBox.NoticeFancy.scss
+md5 HASH：3cd423fa94de675844c0d90339766ce4
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/src/scss/plugins/jBox.Notice.scss
+md5 HASH：3fb611330b6f2c36c54e046a449ae7b1
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/src/scss/plugins/jBox.Image.scss
+md5 HASH：86c395015c289edf8615f556de0ff360
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/src/scss/themes/jBox.TooltipBorder.scss
+md5 HASH：9eb66df4ccee43746e701d88501e53f7
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/src/scss/themes/jBox.TooltipBorderThick.scss
+md5 HASH：b9654263f3f48d7b8d24ceb09508cf87
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/src/scss/themes/jBox.TooltipError.scss
+md5 HASH：b02d03f4ea075bddbb4814d74e28f348
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/src/scss/themes/jBox.TooltipSmall.scss
+md5 HASH：f3c1ebbbcb76df8fe1fcc0766ee42985
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/src/scss/themes/jBox.TooltipDark.scss
+md5 HASH：c61facaab959055c3659236f8702f6b1
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/src/scss/themes/jBox.TooltipSmallGray.scss
+md5 HASH：c6a1e877f7ffe8f1b401eaf12042b7a9
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/JobMenta_職業介紹服務定型化契約暨個資使用同意書.pdf
+md5 HASH：594decf366261b535536d4c7e326a669
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/jBox-1.3.3/test/assets.test.js
+md5 HASH：7db5491b9e33ad869957d962618adc24
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/LabVM-336012.rdp
+md5 HASH：725a8604a23c81963e27e40af6d73f36
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/md5 (1).svg
+md5 HASH：169ba38e73ce46871a8f5f0ac901ee5a
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/md5.svg
+md5 HASH：085e510df9435e522ec20f5dd1285be9
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/chrome_100_percent.pak
+md5 HASH：8d56d44c318d122f7931d03ba435f00b
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/chrome_200_percent.pak
+md5 HASH：879f88cafa5714994744bde20e7bd2c2
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/ffmpeg.dll
+md5 HASH：3798c28635c9bd98c5af2596e9ebd65c
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/d3dcompiler_47.dll
+md5 HASH：57d829f7d174d1a8067612c09cf6566b
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/leetcode-note.pdf
+md5 HASH：227740e79b904fa763a95e5e79196946
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/libEGL.dll
+md5 HASH：a5dfefc00eee0f387f11896a0a407b88
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/LICENSE
+md5 HASH：273e0c843604f93a9008471f7ad5e600
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/am.pak
+md5 HASH：5243586ab8ba46819f25ba4d101c37e2
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/icudtl.dat
+md5 HASH：4c8a9e9c260dc5a6fee2a3c37520f5bf
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/LICENSES.chromium.html
+md5 HASH：9be0b7bab62f3fa9ed43e1f205c12c3d
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/libGLESv2.dll
+md5 HASH：89886fab795c965438f015be143b8d80
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/ar.pak
+md5 HASH：9304c7491e32af17fe2dc362fe0bd068
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/bg.pak
+md5 HASH：14d4009f946c4a7b78489b07df5aa82e
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/ca.pak
+md5 HASH：3102fd61444837ab5893c9ea60643155
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/bn.pak
+md5 HASH：ff3cd4b973750a923d7abfbbeeebc8eb
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/el.pak
+md5 HASH：74676c037cd3655a29926c9a9f488d5d
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/cs.pak
+md5 HASH：695b25666425d89e3a23d21b7514e5aa
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/de.pak
+md5 HASH：4883e792e4097f9021806b60959c32ac
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/da.pak
+md5 HASH：8dcd64bb0a0da02e8b6a5c839f3e991e
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/en-US.pak
+md5 HASH：15e8556f737d17bd4d645513ee190990
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/en-GB.pak
+md5 HASH：1f4d5048d57cb612a6d1a8b58cd6a590
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/es-419.pak
+md5 HASH：dd713ae82b5741349dea314551764741
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/es.pak
+md5 HASH：92de3007bbfb457d64c9be1997c55303
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/et.pak
+md5 HASH：d8fda5b1d04b489234b66ace098427ab
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/fa.pak
+md5 HASH：b1e2a130dd68f336b9fea685812687c8
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/fi.pak
+md5 HASH：0585f289b218f3b3c3c860d65f886ae5
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/fil.pak
+md5 HASH：64b5e8c877093f7ebe533f91c17bfeea
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/he.pak
+md5 HASH：1b100f48ef249aa2222514366639e8fc
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/gu.pak
+md5 HASH：7b90200d7416bd34c6bc1d87f0b47bb7
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/fr.pak
+md5 HASH：6acbb5c396d8343c1d39c180abdeda87
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/hr.pak
+md5 HASH：e739425a85417d87fbabc3cbc173f642
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/id.pak
+md5 HASH：50e2d1b9f8d432320cbe66eafad70df8
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/it.pak
+md5 HASH：f0f779a553d7580d9d676c78c2226f98
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/hi.pak
+md5 HASH：decec483557e4ee4e871a075fb50f0c0
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/ja.pak
+md5 HASH：7eba1dcb193cde051426472521cb3606
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/hu.pak
+md5 HASH：4bc176e0f485bef9e52dcf61f827cec5
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/kn.pak
+md5 HASH：ad74b49e9f71e9e0bdbe508a333c4983
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/ko.pak
+md5 HASH：333e02e59052aa504ac7e6d1ea514fb4
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/lt.pak
+md5 HASH：470f90fd450268c2a15bc06fbceab12c
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/lv.pak
+md5 HASH：b338329a8422d0ef45c263ff5ef4cc6d
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/ml.pak
+md5 HASH：dedf30380accd2541cd3096f237c9215
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/ms.pak
+md5 HASH：e5523c2a228b0de32b4754f408c7a1a5
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/mr.pak
+md5 HASH：d54ac6000ce012fd5a3075be7c6d70f2
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/nb.pak
+md5 HASH：f46f073d290aa995d57cb28f08d5a0ee
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/nl.pak
+md5 HASH：b41b28cd589ef69f745d718729abd5c8
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/ro.pak
+md5 HASH：600397c62f8fbc0cd3640f50cd81b3b3
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/pt-PT.pak
+md5 HASH：e88c02c46cbe28ca596cd2d0af3b8055
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/pl.pak
+md5 HASH：7254f3141a5a071a733e9b53fae44be3
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/ru.pak
+md5 HASH：4e422893fb08d2e180e46bc059bea640
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/pt-BR.pak
+md5 HASH：4a3e81d3e39b36fb1211fc1752d7b95b
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/sk.pak
+md5 HASH：c85c1df88e2f77d00b7c3d2404ab19ba
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/sw.pak
+md5 HASH：f0dea2c306f7c4128bb1c9020bd3152b
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/sl.pak
+md5 HASH：a9cef3cd4d53f1f300ac2d299b87c101
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/sr.pak
+md5 HASH：9d0189ac9d6572c57f92d779dbf572b4
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/sv.pak
+md5 HASH：7e39cf773d4ff3a8304054d98a52aaa7
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/ta.pak
+md5 HASH：34170ed9578088395e279dab6779891e
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/te.pak
+md5 HASH：bc498b3197814e8f4376817ec8cf414b
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/th.pak
+md5 HASH：3996edb53025e36acecf0b73569dd599
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/tr.pak
+md5 HASH：f23f78a13094fcc5f68305ba17edd890
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/vi.pak
+md5 HASH：d9db64b78080316869f205f42b84260e
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/uk.pak
+md5 HASH：94e1255a4fd96a01b682d11ac2857f7e
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/zh-CN.pak
+md5 HASH：70c1c4a056531bd252abd576a6dbe23c
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/locales/zh-TW.pak
+md5 HASH：d1a7eb6983ae36dada0089423aa25ff5
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/natives_blob.bin
+md5 HASH：f8ac49858ca8739658ff44c296f8aba6
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/resources/app.asar.unpacked/node_modules/@mongosh/node-runtime-worker-thread/dist/child-process-evaluation-listener.d.ts
+md5 HASH：56edc9d0cf109381f0b4630348dc67cb
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/resources/app.asar.unpacked/node_modules/@mongosh/node-runtime-worker-thread/dist/child-process-mongosh-bus.d.ts
+md5 HASH：7b7b94865c1df1e7b11b8330b25c5ad6
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/resources/app.asar.unpacked/node_modules/@mongosh/node-runtime-worker-thread/dist/child-process-proxy.d.ts
+md5 HASH：e2ebd7ddedcadeeadbf819c35985c768
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/resources/app.asar.unpacked/node_modules/@mongosh/node-runtime-worker-thread/dist/child-process-proxy.js
+md5 HASH：4b3998a1523377e523bc7975ad0c9136
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/resources/app.asar.unpacked/node_modules/@mongosh/node-runtime-worker-thread/dist/index.d.ts
+md5 HASH：02f33c96f3fc0d229019dbc0ffec9c9c
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/Markdownify-win32-x64.zip
+md5 HASH：bd20b1658b9d8223ab7bab4925b7be87
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/resources/app.asar.unpacked/node_modules/@mongosh/node-runtime-worker-thread/dist/index.js
+md5 HASH：2020b3d957a26f58191bf81fb239d1d0
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/resources/app.asar.unpacked/node_modules/@mongosh/node-runtime-worker-thread/dist/index.js.LICENSE.txt
+md5 HASH：783f14fa45b10e088e68f98251448010
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/resources/app.asar.unpacked/node_modules/@mongosh/node-runtime-worker-thread/dist/child-process-proxy.js.LICENSE.txt
+md5 HASH：783f14fa45b10e088e68f98251448010
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/resources/app.asar.unpacked/node_modules/@mongosh/node-runtime-worker-thread/dist/lock.d.ts
+md5 HASH：43df6c110d84cba3049a18d94e26f2ce
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/resources/app.asar.unpacked/node_modules/@mongosh/node-runtime-worker-thread/dist/serializer.d.ts
+md5 HASH：cd2bb68410b836b04bc96a8151b60979
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/resources/app.asar.unpacked/node_modules/@mongosh/node-runtime-worker-thread/dist/rpc.d.ts
+md5 HASH：cc9ba9de4d9fdce147776ae5e55636c9
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/resources/app.asar.unpacked/node_modules/@mongosh/node-runtime-worker-thread/dist/worker-runtime.d.ts
+md5 HASH：a61a1103770c3c41facaa22345c28119
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/resources/app.asar.unpacked/node_modules/@mongosh/node-runtime-worker-thread/dist/spawn-child-from-source.d.ts
+md5 HASH：26b4b8a00d4cc5f5e4eb801287e4e48b
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/resources/app.asar.unpacked/node_modules/@mongosh/node-runtime-worker-thread/dist/worker-runtime.js.LICENSE.txt
+md5 HASH：3a534ed587bd8355da35da929f5fc6e5
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/resources/app.asar.unpacked/node_modules/@mongosh/node-runtime-worker-thread/dist/worker-runtime.js
+md5 HASH：f4d96d416e106bb0f001a9a4d182944d
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/resources/app.asar.unpacked/node_modules/@mongosh/node-runtime-worker-thread/node_modules/bson/bower.json
+md5 HASH：fca7c6b2f709c00022f86df4b350cd2c
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/636243478.mp4
+md5 HASH：a990a6f73a7cb2eee0600c34067b1348
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/resources/app.asar.unpacked/node_modules/@mongosh/node-runtime-worker-thread/LICENSE
+md5 HASH：e05745076d543bf80b5e20cc0d1659db
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/resources/app.asar.unpacked/node_modules/@mongosh/node-runtime-worker-thread/node_modules/bson/bson.d.ts
+md5 HASH：5032654e9c53fafd1bd023ff5558360f
+-----------------------
+檔案名稱：C:/Users/andrew/Downloads/mongodb-compass-1.26.1-win32-x64/resources/app.asar.unpacked/node_modules/@mongosh/node-runtime-worker-thread/node_modules/bson/dist/bson.browser.esm.js
+md5 HASH：0d467884ff11807c1ba3012b07aad32b
+-----------------------
