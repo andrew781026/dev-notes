@@ -23,7 +23,7 @@ const MD5Generator = function ({
     return new Promise((resolve, reject) => {
 
         // 參考 : https://betterprogramming.pub/a-memory-friendly-way-of-reading-files-in-node-js-a45ad0cc7bb6
-        const CHUNK_SIZE = 10000000; // 10MB
+        const CHUNK_SIZE = 1024 * 1024 * 10; // 10MB
         let md5Str = '';
         const reader = fs.createReadStream(file, {highWaterMark: CHUNK_SIZE});
 
@@ -67,7 +67,7 @@ const MD5 = {
     }
 }
 
-const file1 = "C:\\Users\\User\\Downloads\\MovaviScreenRecorderSetupC.exe"
+const file1 = "C:\\Users\\andrew\\Downloads\\Docker Desktop Installer.exe"
 
 MD5.compute({file: file1, env: 'main thread'});
 console.log('good')

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="icon" href="sha.svg">
+    <title>MD5 產生工具</title>
+    <!-- 參考頁面 : https://9px.ir/demo/incremental-md5.html -->
+    <script src="//cdn.rawgit.com/satazor/SparkMD5/master/spark-md5.min.js"></script>
+    <script src="tiny_uploader.js"></script>
+</head>
+<body>
+<input type="file" name="file" onchange="uploadFile(this)">
+<script>
+
+    // MD5 是輸入不定長度資訊，輸出固定長度 128-bits 的演算法 ( 32位元十六進位數字 )
+    function uploadFile(el) {
+
+        const file = el.files[0]
+        getMD5(file)
+            .then(({filename, hash}) => {
+
+                console.log('%c' + 'computed hash:' + hash, "color:green")
+
+                // 定義要觸發的事件 CustomEvent 只能用 detail 來傳遞參數
+                const evt = new CustomEvent('computed', {
+                    detail: {
+                        filename,
+                        md5: hash, // md5 固定輸出 32 個字
+                    }
+                });
+
+                // 處發 evt 事件
+                document.dispatchEvent(evt);
+            })
+            .catch(console.error)
+    }
+
+    document.querySelector('input[name="file"]').addEventListener('computed', ({detail: {filename, md5}}) => {
+        console.table({filename, md5});
+    });
+</script>
+</body>
+</html>
