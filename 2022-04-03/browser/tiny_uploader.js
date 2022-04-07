@@ -1,3 +1,4 @@
+// 參考頁面 : https://9px.ir/demo/incremental-md5.html
 function getMD5(file) {
 
     return new Promise((resolve, reject) => {
