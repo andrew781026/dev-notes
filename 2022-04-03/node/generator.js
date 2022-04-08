@@ -19,7 +19,6 @@ function toBuffer(ab) {
     return buf;
 }
 
-
 const MD5Generator = function (file) {
 
     return new Promise((resolve, reject) => {

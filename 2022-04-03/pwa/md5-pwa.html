@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="icon" href="sha.svg">
+    <link rel="manifest" href="manifest.json">
+    <title>MD5 產生工具</title>
+    <!-- 參考頁面 : https://9px.ir/demo/incremental-md5.html -->
+    <script src="//cdn.rawgit.com/satazor/SparkMD5/master/spark-md5.min.js"></script>
+    <script src="tiny_uploader.js"></script>
+    <!-- 上方的 2 個 JS 檔案都需要做 cache -->
+</head>
+<body>
+<input type="file" name="file" onchange="uploadFile(this)">
+<script>
+    if ('serviceWorker' in navigator) {
+        navigator.serviceWorker
+            .register('./serviceWorker.js') // 註冊 Service Worker
+            .then(function(reg) {
+                console.log('Registration succeeded. Scope is ' + reg.scope); // 註冊成功
+            })
+            .catch(function(error) {
+                console.log('Registration failed with ' + error); // 註冊失敗
+            });
+    }
+</script>
+</body>
+</html>

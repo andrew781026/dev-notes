@@ -13,9 +13,8 @@ const getWorkerData = () => ({file: queue.shift()})
 fs.writeFile("info.txt", '', {encoding: "utf8", flag: "w"}, _ => _);
 
 // List all files in a directory in Node.js recursively in a synchronous fashion
-const walkSync = function (dir, filelist) {
+const walkSync = function (dir, filelist = []) {
     const files = fs.readdirSync(dir);
-    filelist = filelist || [];
     files.forEach(function (file) {
         if (fs.statSync(dir + file).isDirectory()) {
             filelist = walkSync(dir + file + '/', filelist);
