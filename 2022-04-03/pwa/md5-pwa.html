@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <link rel="icon" href="sha.svg">
+    <link rel="icon" href="icons/sha.svg">
     <link rel="manifest" href="manifest.json">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <title>MD5 產生工具</title>
     <!-- 參考頁面 : https://9px.ir/demo/incremental-md5.html -->
     <script src="//cdn.rawgit.com/satazor/SparkMD5/master/spark-md5.min.js"></script>
@@ -12,6 +13,9 @@
 </head>
 <body>
 <input type="file" name="file" onchange="uploadFile(this)">
+<button class="btn">安裝</button>
+<div class="info"></div>
+<script src="installprompt.js"></script>
 <script>
     if ('serviceWorker' in navigator) {
         navigator.serviceWorker
