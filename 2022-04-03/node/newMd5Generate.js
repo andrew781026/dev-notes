@@ -35,3 +35,5 @@ const MD5 = {
 
 const file1 = "C:\\Users\\andrew\\Downloads\\Docker Desktop Installer.exe"
 MD5.compute({file: file1, env: 'main thread'});
+
+module.exports = MD5
