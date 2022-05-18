@@ -1,6 +1,8 @@
 version: "3"
 services:
   stories:
+    image: "story-app:1"
+    # image: story-app
     build: .
     volumes:
       - stories:/app/story

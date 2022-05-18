@@ -35,7 +35,7 @@ $ minikube status                    # 確認 minikube 目前狀態
 
 ### kubectl CLI 說明
 
-- docker build . -t kub-first-app
+- docker build . -t kub-first-app   # 利用 Dockerfile 建立 image 
 - kubectl help 
 - kubectl create deployment first-app --image=kub-first-app  # create a deployment object  
 - kubectl get deployments
@@ -90,5 +90,28 @@ $ minikube status                    # 確認 minikube 目前狀態
 
 [kubernetes reference-docs](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.24/#deployment-v1-apps)
 
+> 211 . [K8S Volumes] Create new deployment & service
 
+- docker-compose build 
+- docker tag story-app andrew7810262000/kub-story-app
+- docker login  # 避免 docker push 被 deny 
+- docker push andrew7810262000/kub-story-app
+- kubectl apply -f="deployment.yaml"
 
+> 213 . [K8S Volumes] type emptyDir
+
+- docker build . -t "andrew7810262000/kub-story-app:1"
+- docker push "andrew7810262000/kub-story-app:1"
+- kubectl apply -f="deployment.yaml"
+
+測試 API 新增文字 & 讓其 crash - 結果資料沒有留著 
+
+- curl -X POST -H "Content-Type: application/json" -d '{"text": "很好~~" }' http://localhost:32765/story
+- curl http://localhost:32765/story
+- curl http://localhost:32765/error
+
+後面要多設定 Volumes 處理這樣的 issue ( add volumeMounts & volume in deployment.yaml )
+
+- minikube mount "D:\test\udemy\k8s-volumn:/data"
+
+NOTE: Windows 要如何使用 hostPath ? 
