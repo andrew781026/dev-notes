@@ -115,3 +115,39 @@ $ minikube status                    # 確認 minikube 目前狀態
 - minikube mount "D:\test\udemy\k8s-volumn:/data"
 
 NOTE: Windows 要如何使用 hostPath ? 
+
+`volumn type = csi`
+
+一種雲端儲存的中介 ( ex : [Amazon EFS CSI Driver](https://github.com/kubernetes-sigs/aws-efs-csi-driver) )
+
+> 216 . [K8S Volumes] Persistent volume 
+
+Persistent volume  = Pod 關閉後 , 也不會消失的 volume
+
+> 221 . [K8S Volumes] env setting
+
+- docker build . -t andrew7810262000/kub-story-app:2
+- docker push andrew7810262000/kub-story-app:2
+- kubectl apply -f="deployment.yaml"    # 會將 kub-first-app 的 container 改用 image=andrew7810262000/kub-first-app:2 做啟動
+
+> 226 . [K8S Network] 
+ 
+
+
+
+> 切換不同的 Cluster
+ 
+- kubectl config get-contexts
+- kubectl config use-context <context-name>
+- kubectl config delete-context <context-name> 
+
+### 使用 digitalocean 的 K8S
+
+- 教學 : https://blogg.itverket.no/how-to-create-digitalocean-droplets-using-doctl-on-windows-2
+
+STEP 1: 先下載 "Download Config File"
+STEP 2: 查看下載的 "XXXX-kubeconfig.yaml" 檔案 , 裡面可以看到 Token
+STEP 3: doctl auth init -t <your-token>
+STEP 4: doctl kubernetes cluster kubeconfig save <cluster-name>
+
+

@@ -28,20 +28,17 @@ spec:
     spec:
       containers:
         - name: story-node
-          # image: andrew7810262000/kub-story-app
-          image: "andrew7810262000/kub-story-app:2"
+          image: andrew7810262000/kub-story-app
           env:
             - name: STORY_FOLDER
-              value: 'story'
+              valueFrom:
+                configMapKeyRef:
+                  name: story-config
+                  key: folder
           volumeMounts:
-            # - mountPath: /app/story
-            #   name: story-volumes
             - mountPath: /app/story
-              name: my-story-volumes
+              name: story-volumes-pvc
       volumes:
-        # - name: story-volumes
-        #   emptyDir: {}
-        - name: my-story-volumes
-          hostPath:
-            path: /d/test/udemy/k8s-volumn
-            type: DirectoryOrCreate
+        - name: story-volumes-pvc
+          persistentVolumeClaim:
+            claimName: host-pvc

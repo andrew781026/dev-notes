@@ -5,8 +5,9 @@ const express = require('express');
 const bodyParser = require('body-parser');
 
 const app = express();
+const storyFolder = process.env.STORY_FOLDER; // 從外部的 env 設定取得 STORY_FOLDER
 
-const filePath = path.join(__dirname, 'story', 'text.txt');
+const filePath = path.join(__dirname, storyFolder, 'text.txt');
 
 app.use(bodyParser.json());
 

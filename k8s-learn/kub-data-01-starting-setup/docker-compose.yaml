@@ -8,5 +8,7 @@ services:
       - stories:/app/story
     ports:
       - 8018:3000
+    environment:
+      - STORY_FOLDER=story
 volumes:
   stories:
