@@ -1,15 +1,20 @@
 version: "3"
 services:
   auth:
+    image: andrew7810262000/network-auth
     build: ./auth-api
   users:
+    image: andrew7810262000/network-users
     build: ./users-api
     ports:
       - "18080:8080"
+    environment:
+      AUTH_ADDRESS: auth
   tasks:
+    image: andrew7810262000/network-tasks
     build: ./tasks-api
     ports:
       - "8000:8000"
     environment:
+      AUTH_ADDRESS: auth
       TASKS_FOLDER: tasks
-

@@ -5,6 +5,7 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const axios = require('axios');
 
+const authAddress = process.env.AUTH_ADDRESS;
 const fileFolder = path.join(__dirname, process.env.TASKS_FOLDER);
 const filePath = path.join(fileFolder, 'tasks.txt');
 if (!fs.existsSync(fileFolder)) fs.mkdirSync(fileFolder);
@@ -20,7 +21,7 @@ const extractAndVerifyToken = async (headers) => {
     }
     const token = headers.authorization.split(' ')[1]; // expects Bearer TOKEN
 
-    const response = await axios.get('http://auth/verify-token/' + token);
+    const response = await axios.get(`http://${authAddress}/verify-token/` + token);
     return response.data.uid;
 };
 

@@ -132,7 +132,8 @@ Persistent volume  = Pod 關閉後 , 也不會消失的 volume
 
 > 226 . [K8S Network] 
  
-
+- CoreDNS : use for kubernetes cluster DNS internal 
+- kubectl get namespaces
 
 
 > 切換不同的 Cluster
@@ -149,5 +150,6 @@ STEP 1: 先下載 "Download Config File"
 STEP 2: 查看下載的 "XXXX-kubeconfig.yaml" 檔案 , 裡面可以看到 Token
 STEP 3: doctl auth init -t <your-token>
 STEP 4: doctl kubernetes cluster kubeconfig save <cluster-name>
+
 
 

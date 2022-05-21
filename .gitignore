@@ -3,3 +3,5 @@
 node_modules
 gen
 package-lock.json
+
+*-kubeconfig.yaml
