@@ -3,6 +3,11 @@ services:
   auth:
     image: andrew7810262000/network-auth
     build: ./auth-api
+  frontend:
+    image: andrew7810262000/network-frontend
+    build: ./frontend
+    ports:
+      - "80:80"
   users:
     image: andrew7810262000/network-users
     build: ./users-api

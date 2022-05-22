@@ -132,9 +132,9 @@ Persistent volume  = Pod 關閉後 , 也不會消失的 volume
 
 > 226 . [K8S Network] 
  
-- CoreDNS : use for kubernetes cluster DNS internal 
+- [CoreDNS](https://kubernetes.io/zh/docs/tasks/administer-cluster/coredns/) : use for kubernetes cluster DNS internal 
 - kubectl get namespaces
-
+- react project -> use nginx reverse proxy , let front-end access to task-api 
 
 > 切換不同的 Cluster
  
@@ -151,5 +151,9 @@ STEP 2: 查看下載的 "XXXX-kubeconfig.yaml" 檔案 , 裡面可以看到 Token
 STEP 3: doctl auth init -t <your-token>
 STEP 4: doctl kubernetes cluster kubeconfig save <cluster-name>
 
+#### 🧐 The problem : React 專案無法使用 docker 的 process.env
 
+將 process.env 的參數改成用 window 來引用 
 
+- https://www.freecodecamp.org/news/how-to-implement-runtime-environment-variables-with-create-react-app-docker-and-nginx-7f9d42a91d70/
+- https://github.com/kunokdev/cra-runtime-environment-variables
