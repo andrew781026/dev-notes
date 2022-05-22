@@ -14,7 +14,11 @@ FROM nginx:1.19-alpine
 
 COPY --from=builder /app/build /usr/share/nginx/html
 
-COPY conf/nginx.conf /etc/nginx/conf.d/default.conf
+COPY conf/nginx.conf /etc/nginx/conf.d/nginx.conf.template
+# COPY conf/nginx.conf /etc/nginx/conf.d/default.conf
+
+COPY docker-entrypoint.sh /
+ENTRYPOINT ["/docker-entrypoint.sh"]
 
 EXPOSE 80
 

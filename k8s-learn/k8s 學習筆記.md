@@ -151,9 +151,8 @@ STEP 2: 查看下載的 "XXXX-kubeconfig.yaml" 檔案 , 裡面可以看到 Token
 STEP 3: doctl auth init -t <your-token>
 STEP 4: doctl kubernetes cluster kubeconfig save <cluster-name>
 
-#### 🧐 The problem : React 專案無法使用 docker 的 process.env
+#### 🧐 The problem : nginx 無法使用 docker 的 env 參數
 
-將 process.env 的參數改成用 window 來引用 
+使用 envsubst 來取代設定的 conf 檔案中的指定參數
 
-- https://www.freecodecamp.org/news/how-to-implement-runtime-environment-variables-with-create-react-app-docker-and-nginx-7f9d42a91d70/
-- https://github.com/kunokdev/cra-runtime-environment-variables
+- https://medium.com/@SiegeSailor/%E4%BD%BF%E7%94%A8-envsubst-%E6%9B%BF%E6%8F%9B%E7%92%B0%E5%A2%83%E8%AE%8A%E6%95%B8-8c2826996fd5

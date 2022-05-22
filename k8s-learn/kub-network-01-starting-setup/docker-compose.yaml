@@ -6,6 +6,8 @@ services:
   frontend:
     image: andrew7810262000/network-frontend
     build: ./frontend
+    environment:
+      TASKS_API_URL: tasks:8000
     ports:
       - "80:80"
   users:

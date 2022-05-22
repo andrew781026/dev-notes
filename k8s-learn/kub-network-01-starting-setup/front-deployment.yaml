@@ -28,3 +28,6 @@ spec:
       containers:
         - name: network-frontend
           image: andrew7810262000/network-frontend
+          env:
+            - name: TASKS_API_URL
+              value: 'network-task-service.default:8000'  # get ClusterIP with service with same name
