@@ -43,7 +43,7 @@ const minify = async (target, dest) => {
     return target;
 }
 
-const runner01 = async (target, dest) => {
+const runner01 = async (target, dest, stopOnError = true) => {
 
     const isDirectory = async filePath => (await fsPromises.lstat(filePath)).isDirectory();
 
@@ -51,7 +51,11 @@ const runner01 = async (target, dest) => {
     else {
 
         const workerNo = 5;
-        const result = [];
+        const files = await fsPromises.readdir(target);
+        const result = files.map(filePath => ({
+            target: path.resolve(target, filePath),
+            dest: path.resolve(dest, filePath)
+        }));
 
         const myEmitter = new EventEmitter();
         myEmitter.on('working', function (target, dest) {
@@ -68,13 +72,8 @@ const runner01 = async (target, dest) => {
         });
         myEmitter.on('error', err => {
             console.error(err);
-            process.exit(0);
+            if (stopOnError) process.exit(0);
         });
-
-        const files = await fsPromises.readdir(target);
-        files.forEach(filePath =>
-            result.push({target: path.resolve(target, filePath), dest: path.resolve(dest, filePath)})
-        );
         for (let i = 0; i < workerNo; i++) {
             const {target, dest} = result.shift();
             myEmitter.emit('working', target, dest);
