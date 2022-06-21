@@ -5,3 +5,7 @@ gen
 package-lock.json
 
 *-kubeconfig.yaml
+
+# for squoosh image minifier
+2022-06-21/imgs
+2022-06-21/output
